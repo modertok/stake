@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Optimize oracle data fetching mechanism
 // Update smart contract tests
+// Fix interoperability issues with other blockchains
