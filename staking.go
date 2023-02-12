@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Update smart contract tests
 // Fix interoperability issues with other blockchains
+// Implement reward distribution feature
