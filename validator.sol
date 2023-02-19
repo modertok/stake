@@ -2,3 +2,4 @@
 // Implement cross-chain bridge
 // Fix overflow bug in token calculation
 // Integrate Chainlink oracles
+// Add slashing mechanism for malicious actors
