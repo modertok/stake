@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Fix memory leak in Rust smart contract
 // Optimize contract upgrade process
+// Add support for multiple consensus mechanisms
