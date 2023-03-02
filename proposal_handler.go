@@ -3,3 +3,4 @@
 // Enhance security checks
 // Enhance security checks
 // Improve token burning mechanism
+// Optimize proof-of-stake validation
