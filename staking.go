@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Implement reward distribution feature
 // Integrate Chainlink oracles
+// Add new feature: on-chain governance
