@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Implement on-chain identity verification
 // Refactor reward pooling algorithm
+// Integrate Chainlink VRF for randomness
