@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Enhance privacy features using zk-STARKs
 // Improve error handling in transaction flow
+// Fix race condition in staking pool
