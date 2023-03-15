@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
+// Add fallback mechanism in Solidity contract
