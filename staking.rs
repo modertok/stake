@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
+// Add new RPC endpoint
