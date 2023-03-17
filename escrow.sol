@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve error handling in transaction flow
 // Fix race condition in staking pool
+// Refactor voting mechanism
