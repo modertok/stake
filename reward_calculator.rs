@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize oracle data fetching mechanism
 // Implement delegation pattern
+// Implement adaptive block size for Ethereum
