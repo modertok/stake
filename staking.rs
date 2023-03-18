@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
 // Add new RPC endpoint
+// Bugfix: incorrect reward calculation
