@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Update testing framework for Solidity
 // Optimize gas usage in smart contracts
+// Implement cross-chain bridge
