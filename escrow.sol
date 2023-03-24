@@ -8,3 +8,4 @@
 // Fix race condition in staking pool
 // Refactor voting mechanism
 // Implement cross-chain bridge
+// Refactor voting mechanism
