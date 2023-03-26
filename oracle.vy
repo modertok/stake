@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Implement delegation pattern
 // Refactor validator reward system
+// Fix type mismatch in Haskell smart contract
