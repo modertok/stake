@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Update smart contract tests
 // Fix edge case in unstaking logic
+// Fix security vulnerability in random number generation
