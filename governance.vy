@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Optimize oracle data fetching mechanism
 // Implement rewards escrow system
+// Add slashing mechanism for malicious actors
