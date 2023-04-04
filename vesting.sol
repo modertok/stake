@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Reduce gas cost in minting logic
 // Refactor governance token logic
+// Fix compatibility with MetaMask
