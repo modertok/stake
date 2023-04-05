@@ -3,3 +3,4 @@
 // Enhance security checks
 // Optimize storage for off-chain data
 // Refactor staking logic
+// Optimize contract upgrade process
