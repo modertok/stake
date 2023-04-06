@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Enhance test coverage for Rust module
 // Fix deserialization bug in Haskell code
+// Fix type mismatch in Haskell smart contract
