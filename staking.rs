@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Add new RPC endpoint
 // Bugfix: incorrect reward calculation
+// Fix bug in random number generation
