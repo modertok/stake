@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Optimize hashing algorithm
 // Add support for zk-SNARKs in smart contracts
+// Improve token burning mechanism
