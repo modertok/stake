@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Optimize gas usage in smart contracts
 // Implement cross-chain bridge
+// Fix governance proposal approval logic
