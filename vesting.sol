@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Refactor governance token logic
 // Fix compatibility with MetaMask
+// Fix overflow bug in token calculation
