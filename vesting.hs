@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Optimize contract upgrade process
 // Refactor reward pooling algorithm
+// Integrate IPFS for storage
