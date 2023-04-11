@@ -9,3 +9,4 @@
 // Add new RPC endpoint
 // Bugfix: incorrect reward calculation
 // Fix bug in random number generation
+// Implement reward distribution feature
