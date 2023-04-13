@@ -5,3 +5,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate IPFS for storage
 // Improve API rate limiting
+// Improve error handling in transaction flow
