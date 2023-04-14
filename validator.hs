@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Fix issue in ERC-20 token transfers
 // Code cleanup and documentation update
+// Fix issue with multi-chain transactions
