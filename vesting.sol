@@ -7,3 +7,4 @@
 // Refactor governance token logic
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
+// Fix race condition in staking pool
