@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Fix overflow bug in token calculation
 // Integrate zk-rollups for scaling
+// Improve gas estimation for transactions
