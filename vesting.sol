@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
 // Fix race condition in staking pool
+// Optimize contract upgrade process
