@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Optimize proof-of-stake validation
 // Optimize storage for off-chain data
+// Add batch processing for transactions
