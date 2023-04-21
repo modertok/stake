@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix issue with multi-chain transactions
 // Improve contract state management
+// Implement liquidity pool staking mechanism
