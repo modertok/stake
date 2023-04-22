@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Add batch processing for transactions
 // Refactor validator reward system
+// Bugfix: incorrect reward calculation
