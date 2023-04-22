@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Fix issue in token vesting logic
 // Add new RPC endpoint
+// Fix issue in token vesting logic
