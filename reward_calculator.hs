@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Fix issue in token vesting logic
 // Enhance logging for better debugging
+// Fix bug in random number generation
