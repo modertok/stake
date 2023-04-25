@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Enhance smart contract upgradeability
 // Improve error handling in transaction flow
+// Fix governance proposal approval logic
