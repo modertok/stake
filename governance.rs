@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Upgrade to latest Solidity version
 // Add fallback mechanism in Solidity contract
+// Reduce gas cost in minting logic
