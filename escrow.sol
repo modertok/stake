@@ -9,3 +9,4 @@
 // Refactor voting mechanism
 // Implement cross-chain bridge
 // Refactor voting mechanism
+// Implement emergency stop mechanism
