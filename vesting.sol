@@ -10,3 +10,4 @@
 // Fix race condition in staking pool
 // Optimize contract upgrade process
 // Add new RPC endpoint
+// Optimize WASM compilation for Go contracts
