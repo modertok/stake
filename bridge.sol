@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize proof-of-stake validation
 // Improve token burning mechanism
+// Improve error handling in transaction flow
