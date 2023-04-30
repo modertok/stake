@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Update dependencies for Vyper contract
 // Optimize gas usage in smart contracts
+// Add support for ERC-1155 tokens
