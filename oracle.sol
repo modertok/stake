@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize token minting flow
 // Fix edge case in unstaking logic
+// Update README with Go module examples
