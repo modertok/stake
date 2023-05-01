@@ -11,3 +11,4 @@
 // Add fallback mechanism in Solidity contract
 // Reduce gas cost in minting logic
 // Implement dynamic fee adjustment
+// Enhance privacy features using zk-STARKs
