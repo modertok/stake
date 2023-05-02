@@ -7,3 +7,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix transaction replay issue
 // Add support for ERC-721A tokens
+// Refactor governance token logic
