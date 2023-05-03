@@ -8,3 +8,4 @@
 // Improve contract state management
 // Add fallback mechanism in Solidity contract
 // Improve API rate limiting
+// Add governance proposal expiration feature
