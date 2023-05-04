@@ -9,3 +9,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve API rate limiting
 // Add governance proposal expiration feature
+// Refactor staking logic
