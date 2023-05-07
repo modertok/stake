@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve gas estimation for transactions
 // Optimize WASM compilation for Go contracts
+// Optimize token minting flow
