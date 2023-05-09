@@ -8,3 +8,4 @@
 // Enhance smart contract upgradeability
 // Implement liquidity pool staking mechanism
 // Fix deserialization bug in Haskell code
+// Enhance developer documentation
