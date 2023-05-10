@@ -5,3 +5,4 @@
 // Improve contract state management
 // Implement liquidity pool staking mechanism
 // Add new RPC endpoint
+// Fix compatibility with MetaMask
