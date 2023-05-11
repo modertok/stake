@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Fix governance proposal approval logic
 // Fix transaction replay issue
+// Add support for ERC-1155 tokens
