@@ -7,3 +7,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve token burning mechanism
 // Upgrade to latest Solidity version
+// Optimize token minting flow
