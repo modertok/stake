@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Add slashing mechanism for malicious actors
 // Update dependencies for Vyper contract
+// Implement reward distribution feature
