@@ -12,3 +12,4 @@
 // Reduce gas cost in minting logic
 // Implement dynamic fee adjustment
 // Enhance privacy features using zk-STARKs
+// Fix issue in token vesting logic
