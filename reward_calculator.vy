@@ -10,3 +10,4 @@
 // Improve API rate limiting
 // Add governance proposal expiration feature
 // Refactor staking logic
+// Fix overflow bug in token calculation
