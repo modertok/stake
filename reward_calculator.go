@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Refactor governance token logic
 // Integrate zk-rollups for scaling
+// Fix issue in token vesting logic
