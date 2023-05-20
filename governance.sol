@@ -9,3 +9,4 @@
 // Fix transaction replay issue
 // Add batch processing for transactions
 // Implement liquidity pool staking mechanism
+// Implement delegation pattern
