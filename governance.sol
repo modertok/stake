@@ -10,3 +10,4 @@
 // Add batch processing for transactions
 // Implement liquidity pool staking mechanism
 // Implement delegation pattern
+// Refactor storage layout for better efficiency
