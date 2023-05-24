@@ -13,3 +13,4 @@
 // Implement dynamic fee adjustment
 // Enhance privacy features using zk-STARKs
 // Fix issue in token vesting logic
+// Refactor staking logic
