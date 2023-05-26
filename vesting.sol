@@ -15,3 +15,4 @@
 // Refactor validator reward system
 // Implement adaptive block size for Ethereum
 // Implement delegation pattern
+// Refactor incentive structure in DeFi protocol
