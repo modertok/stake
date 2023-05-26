@@ -8,3 +8,4 @@
 // Improve token burning mechanism
 // Upgrade to latest Solidity version
 // Optimize token minting flow
+// Implement cross-chain bridge
