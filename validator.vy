@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles
+// Fix race condition in staking pool
