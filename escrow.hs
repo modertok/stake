@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Implement delegation pattern
 // Optimize hashing algorithm
+// Implement reward distribution feature
