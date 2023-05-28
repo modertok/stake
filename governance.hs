@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Optimize contract upgrade process
 // Improve API rate limiting
+// Add governance proposal expiration feature
