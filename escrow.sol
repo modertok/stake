@@ -11,3 +11,4 @@
 // Refactor voting mechanism
 // Implement emergency stop mechanism
 // Fix race condition in staking pool
+// Enhance privacy features using zk-STARKs
