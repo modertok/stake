@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Refactor validator reward system
 // Refactor validator reward system
+// Add new feature: on-chain governance
