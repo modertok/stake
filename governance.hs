@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Improve API rate limiting
 // Add governance proposal expiration feature
+// Fix governance proposal approval logic
