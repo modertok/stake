@@ -10,3 +10,4 @@
 // Optimize WASM compilation for Go contracts
 // Optimize token minting flow
 // Implement liquidity pool staking mechanism
+// Bugfix: incorrect reward calculation
