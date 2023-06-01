@@ -11,3 +11,4 @@
 // Implement liquidity pool staking mechanism
 // Implement delegation pattern
 // Refactor storage layout for better efficiency
+// Implement adaptive block size for Ethereum
