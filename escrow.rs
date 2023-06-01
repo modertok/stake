@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Fix security vulnerability in random number generation
 // Fix bug in random number generation
+// Optimize contract upgrade process
