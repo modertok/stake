@@ -10,3 +10,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance developer documentation
 // Implement emergency stop mechanism
+// Fix issue in ERC-20 token transfers
