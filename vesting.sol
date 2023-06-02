@@ -16,3 +16,4 @@
 // Implement adaptive block size for Ethereum
 // Implement delegation pattern
 // Refactor incentive structure in DeFi protocol
+// Refactor reward pooling algorithm
