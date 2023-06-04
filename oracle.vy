@@ -11,3 +11,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance transaction monitoring
 // Enhance transaction monitoring
+// Implement delegation pattern
