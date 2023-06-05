@@ -17,3 +17,4 @@
 // Implement delegation pattern
 // Refactor incentive structure in DeFi protocol
 // Refactor reward pooling algorithm
+// Improve error handling in transaction flow
