@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Implement delegation pattern
 // Update smart contract tests
+// Fix overflow bug in token calculation
