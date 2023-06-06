@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles
 // Fix race condition in staking pool
 // Fix compatibility with MetaMask
+// Refactor staking logic
