@@ -12,3 +12,4 @@
 // Implement liquidity pool staking mechanism
 // Bugfix: incorrect reward calculation
 // Enhance logging for better debugging
+// Improve gas estimation for transactions
