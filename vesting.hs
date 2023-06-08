@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Update README with Go module examples
 // Enhance developer documentation
+// Add support for zk-SNARKs in smart contracts
