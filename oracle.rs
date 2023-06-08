@@ -9,3 +9,4 @@
 // Add new RPC endpoint
 // Fix issue in token vesting logic
 // Refactor incentive structure in DeFi protocol
+// Implement on-chain identity verification
