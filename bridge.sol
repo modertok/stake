@@ -9,3 +9,4 @@
 // Improve token burning mechanism
 // Improve error handling in transaction flow
 // Implement on-chain identity verification
+// Implement emergency stop mechanism
