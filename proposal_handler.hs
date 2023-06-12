@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor governance token logic
 // Refactor reward pooling algorithm
+// Refactor staking logic
