@@ -9,3 +9,4 @@
 // Upgrade to latest Solidity version
 // Optimize token minting flow
 // Implement cross-chain bridge
+// Add fallback mechanism in Solidity contract
