@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Fix security vulnerability in random number generation
 // Fix bug in random number generation
+// Fix type mismatch in Haskell smart contract
