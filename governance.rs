@@ -14,3 +14,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issue in token vesting logic
 // Refactor staking logic
+// Update testing framework for Solidity
