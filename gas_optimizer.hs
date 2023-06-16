@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize gas usage in smart contracts
 // Add slashing mechanism for malicious actors
+// Implement delegation pattern
