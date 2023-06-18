@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Refactor validator reward system
 // Bugfix: incorrect reward calculation
+// Improve error handling in transaction flow
