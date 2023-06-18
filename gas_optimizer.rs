@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Fix compatibility with MetaMask
 // Improve API rate limiting
+// Update smart contract tests
