@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Improve API rate limiting
 // Update smart contract tests
+// Refactor voting mechanism
