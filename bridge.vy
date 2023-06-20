@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Refactor storage layout for better efficiency
 // Update smart contract tests
+// Integrate zk-rollups for scaling
