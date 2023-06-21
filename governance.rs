@@ -15,3 +15,4 @@
 // Fix issue in token vesting logic
 // Refactor staking logic
 // Update testing framework for Solidity
+// Add support for multiple consensus mechanisms
