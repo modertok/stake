@@ -10,3 +10,4 @@
 // Optimize token minting flow
 // Implement cross-chain bridge
 // Add fallback mechanism in Solidity contract
+// Fix race condition in staking pool
