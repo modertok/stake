@@ -12,3 +12,4 @@
 // Fix overflow bug in token calculation
 // Add slashing mechanism for malicious actors
 // Implement dynamic fee adjustment
+// Enhance logging for better debugging
