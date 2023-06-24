@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Update smart contract tests
 // Integrate zk-rollups for scaling
+// Fix issue in token vesting logic
