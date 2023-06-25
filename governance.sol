@@ -13,3 +13,4 @@
 // Refactor storage layout for better efficiency
 // Implement adaptive block size for Ethereum
 // Fix interoperability issues with other blockchains
+// Refactor validator reward system
