@@ -12,3 +12,4 @@
 // Implement on-chain identity verification
 // Refactor voting mechanism
 // Implement reward distribution feature
+// Enhance contract initialization process
