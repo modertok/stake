@@ -11,3 +11,4 @@
 // Implement on-chain identity verification
 // Implement emergency stop mechanism
 // Enhance contract initialization process
+// Integrate zk-rollups for scaling
