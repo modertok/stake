@@ -14,3 +14,4 @@
 // Fix issue with multi-chain transactions
 // Update testing framework for Solidity
 // Optimize gas usage in smart contracts
+// Update README with Go module examples
