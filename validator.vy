@@ -10,3 +10,4 @@
 // Fix compatibility with MetaMask
 // Refactor staking logic
 // Add support for zk-SNARKs in smart contracts
+// Code cleanup and documentation update
