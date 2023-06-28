@@ -18,3 +18,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor reward pooling algorithm
 // Improve error handling in transaction flow
+// Add support for zk-SNARKs in smart contracts
