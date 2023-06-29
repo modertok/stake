@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Enhance logging for better debugging
 // Improve contract modularity
+// Enhance smart contract upgradeability
