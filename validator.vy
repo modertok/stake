@@ -11,3 +11,4 @@
 // Refactor staking logic
 // Add support for zk-SNARKs in smart contracts
 // Code cleanup and documentation update
+// Update smart contract tests
