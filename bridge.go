@@ -14,3 +14,4 @@
 // Improve gas estimation for transactions
 // Optimize token minting flow
 // Add slashing mechanism for malicious actors
+// Upgrade to latest Solidity version
