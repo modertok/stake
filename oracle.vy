@@ -12,3 +12,4 @@
 // Enhance transaction monitoring
 // Enhance transaction monitoring
 // Implement delegation pattern
+// Add fallback mechanism in Solidity contract
