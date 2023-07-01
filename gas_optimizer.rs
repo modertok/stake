@@ -9,3 +9,4 @@
 // Improve API rate limiting
 // Update smart contract tests
 // Refactor voting mechanism
+// Fix bug in random number generation
