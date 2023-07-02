@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Fix transaction replay issue
 // Add support for ERC-1155 tokens
+// Refactor voting mechanism
