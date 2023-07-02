@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Add support for multiple consensus mechanisms
 // Optimize oracle data fetching mechanism
+// Add governance proposal expiration feature
