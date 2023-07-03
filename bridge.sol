@@ -13,3 +13,4 @@
 // Enhance contract initialization process
 // Integrate zk-rollups for scaling
 // Refactor governance token logic
+// Integrate Chainlink VRF for randomness
