@@ -12,3 +12,4 @@
 // Implement emergency stop mechanism
 // Enhance contract initialization process
 // Integrate zk-rollups for scaling
+// Refactor governance token logic
