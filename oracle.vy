@@ -13,3 +13,4 @@
 // Enhance transaction monitoring
 // Implement delegation pattern
 // Add fallback mechanism in Solidity contract
+// Refactor staking logic
