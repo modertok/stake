@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Optimize hashing algorithm
 // Implement reward distribution feature
+// Implement dynamic fee adjustment
