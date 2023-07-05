@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Fix issue in token vesting logic
 // Improve error handling in transaction flow
+// Refactor voting mechanism
