@@ -8,3 +8,4 @@
 // Add new feature: on-chain governance
 // Integrate Chainlink VRF for randomness
 // Improve API rate limiting
+// Update README with Go module examples
