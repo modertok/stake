@@ -12,3 +12,4 @@
 // Improve contract modularity
 // Implement delegation pattern
 // Optimize token minting flow
+// Fix compatibility with MetaMask
