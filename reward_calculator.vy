@@ -16,3 +16,4 @@
 // Optimize gas usage in smart contracts
 // Update README with Go module examples
 // Optimize hashing algorithm
+// Add multi-sig wallet functionality
