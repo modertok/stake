@@ -6,3 +6,4 @@
 // Refactor governance token logic
 // Enhance gas fee management
 // Fix type mismatch in Haskell smart contract
+// Enhance developer documentation
