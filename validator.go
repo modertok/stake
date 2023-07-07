@@ -11,3 +11,4 @@
 // Implement cross-chain bridge
 // Add fallback mechanism in Solidity contract
 // Fix race condition in staking pool
+// Implement delegation pattern
