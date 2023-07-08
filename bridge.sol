@@ -14,3 +14,4 @@
 // Integrate zk-rollups for scaling
 // Refactor governance token logic
 // Integrate Chainlink VRF for randomness
+// Fix overflow bug in token calculation
