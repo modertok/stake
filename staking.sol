@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Fix issue in ERC-20 token transfers
 // Optimize hashing algorithm
+// Fix edge case in unstaking logic
