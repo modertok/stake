@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Fix overflow bug in token calculation
 // Refactor validator reward system
+// Refactor validator reward system
