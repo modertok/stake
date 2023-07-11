@@ -8,3 +8,4 @@
 // Add governance proposal expiration feature
 // Fix governance proposal approval logic
 // Fix issue in ERC-20 token transfers
+// Enhance gas fee management
