@@ -7,3 +7,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor staking logic
 // Enhance test coverage for Rust module
+// Refactor voting mechanism
