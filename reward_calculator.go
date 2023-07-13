@@ -8,3 +8,4 @@
 // Fix issue in token vesting logic
 // Add multi-sig wallet functionality
 // Fix bug in random number generation
+// Bugfix: incorrect reward calculation
