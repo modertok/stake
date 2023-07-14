@@ -9,3 +9,4 @@
 // Add multi-sig wallet functionality
 // Fix bug in random number generation
 // Bugfix: incorrect reward calculation
+// Add batch processing for transactions
