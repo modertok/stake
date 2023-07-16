@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Improve error handling in transaction flow
 // Fix deserialization bug in Haskell code
+// Add governance proposal expiration feature
