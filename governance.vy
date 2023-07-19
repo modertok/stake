@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance test coverage for Rust module
 // Add support for ERC-721A tokens
+// Fix governance proposal approval logic
