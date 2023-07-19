@@ -14,3 +14,4 @@
 // Implement delegation pattern
 // Add fallback mechanism in Solidity contract
 // Refactor staking logic
+// Fix type mismatch in Haskell smart contract
