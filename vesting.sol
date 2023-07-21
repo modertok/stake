@@ -21,3 +21,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor validator reward system
 // Optimize storage for off-chain data
+// Enhance gas fee management
