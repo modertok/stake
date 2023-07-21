@@ -13,3 +13,4 @@
 // Implement delegation pattern
 // Optimize token minting flow
 // Fix compatibility with MetaMask
+// Refactor governance token logic
