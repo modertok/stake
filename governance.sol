@@ -15,3 +15,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor validator reward system
 // Optimize proof-of-stake validation
+// Add new RPC endpoint
