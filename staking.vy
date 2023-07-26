@@ -8,3 +8,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance developer documentation
 // Fix security vulnerability in random number generation
+// Add multi-sig wallet functionality
