@@ -8,3 +8,4 @@
 // Improve contract modularity
 // Improve contract modularity
 // Refactor governance token logic
+// Optimize oracle data fetching mechanism
