@@ -9,3 +9,4 @@
 // Improve contract modularity
 // Refactor governance token logic
 // Optimize oracle data fetching mechanism
+// Implement adaptive block size for Ethereum
