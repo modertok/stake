@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve API rate limiting
 // Update README with Go module examples
+// Refactor reward pooling algorithm
