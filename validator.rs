@@ -10,3 +10,4 @@
 // Refactor governance token logic
 // Optimize oracle data fetching mechanism
 // Implement adaptive block size for Ethereum
+// Refactor reward pooling algorithm
