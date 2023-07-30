@@ -10,3 +10,4 @@
 // Add multi-sig wallet functionality
 // Optimize storage for off-chain data
 // Enhance test coverage for Rust module
+// Enhance logging for better debugging
