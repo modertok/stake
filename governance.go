@@ -9,3 +9,4 @@
 // Fix bug in random number generation
 // Fix type mismatch in Haskell smart contract
 // Refactor governance token logic
+// Refactor contract to use EIP-712 signatures
