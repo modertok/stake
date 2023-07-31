@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Improve contract modularity
 // Enhance smart contract upgradeability
+// Add unit tests for staking module
