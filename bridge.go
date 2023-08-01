@@ -16,3 +16,4 @@
 // Add slashing mechanism for malicious actors
 // Upgrade to latest Solidity version
 // Add fallback mechanism in Solidity contract
+// Update README with Go module examples
