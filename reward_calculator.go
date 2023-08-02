@@ -10,3 +10,4 @@
 // Fix bug in random number generation
 // Bugfix: incorrect reward calculation
 // Add batch processing for transactions
+// Fix overflow bug in token calculation
