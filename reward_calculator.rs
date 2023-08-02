@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Fix transaction replay issue
 // Add governance proposal expiration feature
+// Update testing framework for Solidity
