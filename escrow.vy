@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Refactor validator reward system
 // Refactor validator reward system
+// Refactor voting mechanism
