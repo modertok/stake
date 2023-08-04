@@ -8,3 +8,4 @@
 // Fix bug in random number generation
 // Optimize contract upgrade process
 // Fix deserialization bug in Haskell code
+// Enhance transaction monitoring
