@@ -12,3 +12,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix race condition in staking pool
 // Implement delegation pattern
+// Add support for ERC-1155 tokens
