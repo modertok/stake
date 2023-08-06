@@ -9,3 +9,4 @@
 // Add support for ERC-721A tokens
 // Fix governance proposal approval logic
 // Implement adaptive block size for Ethereum
+// Implement reward distribution feature
