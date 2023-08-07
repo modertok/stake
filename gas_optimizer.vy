@@ -8,3 +8,4 @@
 // Fix deserialization bug in Haskell code
 // Add governance proposal expiration feature
 // Bugfix: incorrect reward calculation
+// Add support for zk-SNARKs in smart contracts
