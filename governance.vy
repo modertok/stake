@@ -10,3 +10,4 @@
 // Fix governance proposal approval logic
 // Implement adaptive block size for Ethereum
 // Implement reward distribution feature
+// Fix type mismatch in Haskell smart contract
