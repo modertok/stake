@@ -17,3 +17,4 @@
 // Upgrade to latest Solidity version
 // Add fallback mechanism in Solidity contract
 // Update README with Go module examples
+// Fix issue with multi-chain transactions
