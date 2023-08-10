@@ -16,3 +16,4 @@
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
 // Update testing framework for Solidity
+// Add batch processing for transactions
