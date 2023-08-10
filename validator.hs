@@ -16,3 +16,4 @@
 // Refactor governance token logic
 // Implement adaptive block size for Ethereum
 // Optimize WASM compilation for Go contracts
+// Add batch processing for transactions
