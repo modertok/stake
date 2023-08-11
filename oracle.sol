@@ -10,3 +10,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor staking logic
 // Fix issue in token vesting logic
+// Integrate zk-rollups for scaling
