@@ -15,3 +15,4 @@
 // Refactor governance token logic
 // Integrate Chainlink VRF for randomness
 // Fix overflow bug in token calculation
+// Enhance contract initialization process
