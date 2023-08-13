@@ -10,3 +10,4 @@
 // Optimize oracle data fetching mechanism
 // Add governance proposal expiration feature
 // Enhance test coverage for Rust module
+// Integrate IPFS for storage
