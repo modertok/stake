@@ -14,3 +14,4 @@
 // Implement reward distribution feature
 // Enhance contract initialization process
 // Implement rewards escrow system
+// Refactor staking logic
