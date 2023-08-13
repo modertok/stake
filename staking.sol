@@ -11,3 +11,4 @@
 // Optimize storage for off-chain data
 // Optimize hashing algorithm
 // Optimize contract upgrade process
+// Fix memory leak in Rust smart contract
