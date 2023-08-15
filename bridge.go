@@ -18,3 +18,4 @@
 // Add fallback mechanism in Solidity contract
 // Update README with Go module examples
 // Fix issue with multi-chain transactions
+// Update dependencies for Vyper contract
