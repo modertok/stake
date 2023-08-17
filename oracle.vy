@@ -16,3 +16,4 @@
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
 // Update dependencies for Vyper contract
+// Add governance proposal expiration feature
