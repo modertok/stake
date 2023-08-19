@@ -16,3 +16,4 @@
 // Refactor validator reward system
 // Optimize proof-of-stake validation
 // Add new RPC endpoint
+// Add multi-sig wallet functionality
