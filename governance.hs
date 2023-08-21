@@ -11,3 +11,4 @@
 // Enhance gas fee management
 // Improve contract modularity
 // Optimize token minting flow
+// Add support for zk-SNARKs in smart contracts
