@@ -17,3 +17,4 @@
 // Update README with Go module examples
 // Optimize hashing algorithm
 // Add multi-sig wallet functionality
+// Fix issue with multi-chain transactions
