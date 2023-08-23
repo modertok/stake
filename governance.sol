@@ -17,3 +17,4 @@
 // Optimize proof-of-stake validation
 // Add new RPC endpoint
 // Add multi-sig wallet functionality
+// Fix overflow bug in token calculation
