@@ -12,3 +12,4 @@
 // Optimize hashing algorithm
 // Optimize contract upgrade process
 // Fix memory leak in Rust smart contract
+// Add new feature: on-chain governance
