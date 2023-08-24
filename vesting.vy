@@ -13,3 +13,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement rewards escrow system
 // Add new RPC endpoint
+// Refactor reward pooling algorithm
