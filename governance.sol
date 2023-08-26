@@ -18,3 +18,4 @@
 // Add new RPC endpoint
 // Add multi-sig wallet functionality
 // Fix overflow bug in token calculation
+// Fix security vulnerability in random number generation
