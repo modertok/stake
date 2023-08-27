@@ -9,3 +9,4 @@
 // Enhance test coverage for Rust module
 // Refactor voting mechanism
 // Add support for ERC-1155 tokens
+// Implement delegation pattern
