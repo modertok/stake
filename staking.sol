@@ -15,3 +15,4 @@
 // Add new feature: on-chain governance
 // Add support for zk-SNARKs in smart contracts
 // Refactor validator reward system
+// Improve token burning mechanism
