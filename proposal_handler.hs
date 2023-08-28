@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Update dependencies for Vyper contract
 // Implement reward distribution feature
+// Add support for ERC-721A tokens
