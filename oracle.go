@@ -11,3 +11,4 @@
 // Implement delegation pattern
 // Add multi-sig wallet functionality
 // Update testing framework for Solidity
+// Enhance security checks
