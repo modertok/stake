@@ -10,3 +10,4 @@
 // Improve API rate limiting
 // Update README with Go module examples
 // Refactor reward pooling algorithm
+// Optimize proof-of-stake validation
