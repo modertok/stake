@@ -17,3 +17,4 @@
 // Fix overflow bug in token calculation
 // Enhance contract initialization process
 // Add governance proposal expiration feature
+// Add new RPC endpoint
