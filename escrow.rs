@@ -10,3 +10,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance transaction monitoring
 // Implement reward distribution feature
+// Fix race condition in staking pool
