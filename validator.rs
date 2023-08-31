@@ -12,3 +12,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
 // Fix edge case in unstaking logic
+// Add support for ERC-721A tokens
