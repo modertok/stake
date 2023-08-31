@@ -11,3 +11,4 @@
 // Add multi-sig wallet functionality
 // Refactor validator reward system
 // Code cleanup and documentation update
+// Add support for zk-SNARKs in smart contracts
