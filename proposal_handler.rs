@@ -13,3 +13,4 @@
 // Integrate zk-rollups for scaling
 // Fix overflow bug in token calculation
 // Implement delegation pattern
+// Optimize oracle data fetching mechanism
