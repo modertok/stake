@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Optimize gas usage in smart contracts
 // Implement rewards escrow system
+// Add new feature: on-chain governance
