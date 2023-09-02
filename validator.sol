@@ -11,3 +11,4 @@
 // Add governance proposal expiration feature
 // Enhance test coverage for Rust module
 // Integrate IPFS for storage
+// Add support for zk-SNARKs in smart contracts
