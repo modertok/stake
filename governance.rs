@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Optimize gas usage in smart contracts
 // Improve error handling in transaction flow
+// Implement delegation pattern
