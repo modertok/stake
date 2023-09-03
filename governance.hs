@@ -12,3 +12,4 @@
 // Improve contract modularity
 // Optimize token minting flow
 // Add support for zk-SNARKs in smart contracts
+// Optimize gas usage in smart contracts
