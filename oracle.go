@@ -12,3 +12,4 @@
 // Add multi-sig wallet functionality
 // Update testing framework for Solidity
 // Enhance security checks
+// Add support for multiple consensus mechanisms
