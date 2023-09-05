@@ -12,3 +12,4 @@
 // Enhance test coverage for Rust module
 // Integrate IPFS for storage
 // Add support for zk-SNARKs in smart contracts
+// Optimize storage for off-chain data
