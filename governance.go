@@ -10,3 +10,4 @@
 // Fix type mismatch in Haskell smart contract
 // Refactor governance token logic
 // Refactor contract to use EIP-712 signatures
+// Implement emergency stop mechanism
