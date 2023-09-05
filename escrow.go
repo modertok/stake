@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Refactor governance token logic
 // Fix interoperability issues with other blockchains
+// Refactor reward pooling algorithm
