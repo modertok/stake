@@ -18,3 +18,4 @@
 // Update testing framework for Solidity
 // Add batch processing for transactions
 // Implement dynamic fee adjustment
+// Refactor staking logic
