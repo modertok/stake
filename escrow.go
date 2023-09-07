@@ -6,3 +6,4 @@
 // Refactor governance token logic
 // Fix interoperability issues with other blockchains
 // Refactor reward pooling algorithm
+// Implement on-chain identity verification
