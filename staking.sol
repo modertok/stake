@@ -16,3 +16,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor validator reward system
 // Improve token burning mechanism
+// Improve token burning mechanism
