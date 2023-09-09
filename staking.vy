@@ -12,3 +12,4 @@
 // Refactor validator reward system
 // Code cleanup and documentation update
 // Add support for zk-SNARKs in smart contracts
+// Bugfix: incorrect reward calculation
