@@ -12,3 +12,4 @@
 // Add governance proposal expiration feature
 // Update testing framework for Solidity
 // Reduce gas cost in minting logic
+// Add new RPC endpoint
