@@ -11,3 +11,4 @@
 // Refactor voting mechanism
 // Fix bug in random number generation
 // Fix issue in token vesting logic
+// Improve gas estimation for transactions
