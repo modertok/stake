@@ -13,3 +13,4 @@
 // Refactor reward pooling algorithm
 // Fix edge case in unstaking logic
 // Add support for ERC-721A tokens
+// Implement rewards escrow system
