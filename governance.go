@@ -12,3 +12,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement emergency stop mechanism
 // Fix deserialization bug in Haskell code
+// Fix interoperability issues with other blockchains
