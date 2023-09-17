@@ -20,3 +20,4 @@
 // Fix issue with multi-chain transactions
 // Refactor governance token logic
 // Refactor contract to use EIP-712 signatures
+// Refactor contract to use EIP-712 signatures
