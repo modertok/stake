@@ -18,3 +18,4 @@
 // Optimize WASM compilation for Go contracts
 // Add batch processing for transactions
 // Add fallback mechanism in Solidity contract
+// Fix governance proposal approval logic
