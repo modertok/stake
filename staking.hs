@@ -11,3 +11,4 @@
 // Implement delegation pattern
 // Improve contract state management
 // Improve error handling in transaction flow
+// Add new RPC endpoint
