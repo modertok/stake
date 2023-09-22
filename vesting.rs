@@ -8,3 +8,4 @@
 // Improve contract modularity
 // Enhance smart contract upgradeability
 // Add unit tests for staking module
+// Integrate IPFS for storage
