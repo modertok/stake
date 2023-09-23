@@ -14,3 +14,4 @@
 // Fix overflow bug in token calculation
 // Implement delegation pattern
 // Optimize oracle data fetching mechanism
+// Fix memory leak in Rust smart contract
