@@ -7,3 +7,4 @@
 // Implement rewards escrow system
 // Add new feature: on-chain governance
 // Refactor voting mechanism
+// Implement on-chain identity verification
