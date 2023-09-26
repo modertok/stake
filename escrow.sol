@@ -16,3 +16,4 @@
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
 // Improve contract modularity
+// Implement delegation pattern
