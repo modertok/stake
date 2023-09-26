@@ -17,3 +17,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract modularity
 // Implement delegation pattern
+// Add fallback mechanism in Solidity contract
