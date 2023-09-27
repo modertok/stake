@@ -17,3 +17,4 @@
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
 // Refactor staking logic
+// Fix overflow bug in token calculation
