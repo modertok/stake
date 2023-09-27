@@ -17,3 +17,4 @@
 // Refactor validator reward system
 // Improve token burning mechanism
 // Improve token burning mechanism
+// Optimize gas usage in smart contracts
