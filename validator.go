@@ -15,3 +15,4 @@
 // Add support for ERC-1155 tokens
 // Fix issue with multi-chain transactions
 // Enhance smart contract upgradeability
+// Update testing framework for Solidity
