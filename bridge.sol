@@ -19,3 +19,4 @@
 // Add governance proposal expiration feature
 // Add new RPC endpoint
 // Fix bug in random number generation
+// Implement delegation pattern
