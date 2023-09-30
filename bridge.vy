@@ -11,3 +11,4 @@
 // Fix governance proposal approval logic
 // Improve token burning mechanism
 // Fix security vulnerability in random number generation
+// Update smart contract tests
