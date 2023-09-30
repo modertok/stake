@@ -10,3 +10,4 @@
 // Refactor governance token logic
 // Optimize contract upgrade process
 // Implement emergency stop mechanism
+// Refactor staking logic
