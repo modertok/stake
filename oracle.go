@@ -15,3 +15,4 @@
 // Add support for multiple consensus mechanisms
 // Fix type mismatch in Haskell smart contract
 // Add governance proposal expiration feature
+// Fix edge case in unstaking logic
