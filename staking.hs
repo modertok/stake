@@ -12,3 +12,4 @@
 // Improve contract state management
 // Improve error handling in transaction flow
 // Add new RPC endpoint
+// Implement emergency stop mechanism
