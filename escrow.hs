@@ -13,3 +13,4 @@
 // Refactor governance token logic
 // Add multi-sig wallet functionality
 // Improve contract state management
+// Enhance transaction monitoring
