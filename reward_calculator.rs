@@ -15,3 +15,4 @@
 // Add new RPC endpoint
 // Integrate Chainlink VRF for randomness
 // Bugfix: incorrect reward calculation
+// Fix governance proposal approval logic
