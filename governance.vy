@@ -11,3 +11,4 @@
 // Implement adaptive block size for Ethereum
 // Implement reward distribution feature
 // Fix type mismatch in Haskell smart contract
+// Refactor staking logic
