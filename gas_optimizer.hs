@@ -10,3 +10,4 @@
 // Improve error handling in transaction flow
 // Fix overflow bug in token calculation
 // Fix governance proposal approval logic
+// Fix deserialization bug in Haskell code
