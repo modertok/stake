@@ -18,3 +18,4 @@
 // Improve contract modularity
 // Implement delegation pattern
 // Add fallback mechanism in Solidity contract
+// Refactor storage layout for better efficiency
