@@ -9,3 +9,4 @@
 // Optimize proof-of-stake validation
 // Enhance smart contract upgradeability
 // Improve gas estimation for transactions
+// Add new RPC endpoint
