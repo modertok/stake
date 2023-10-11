@@ -16,3 +16,4 @@
 // Add new feature: on-chain governance
 // Optimize proof-of-stake validation
 // Optimize WASM compilation for Go contracts
+// Fix transaction replay issue
