@@ -13,3 +13,4 @@
 // Fix security vulnerability in random number generation
 // Update smart contract tests
 // Improve token burning mechanism
+// Add governance proposal expiration feature
