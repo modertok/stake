@@ -18,3 +18,4 @@
 // Fix security vulnerability in random number generation
 // Refactor staking logic
 // Fix overflow bug in token calculation
+// Fix overflow bug in token calculation
