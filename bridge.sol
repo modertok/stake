@@ -22,3 +22,4 @@
 // Implement delegation pattern
 // Add support for ERC-721A tokens
 // Add support for multiple consensus mechanisms
+// Fix type mismatch in Haskell smart contract
