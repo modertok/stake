@@ -13,3 +13,4 @@
 // Reduce gas cost in minting logic
 // Bugfix: incorrect reward calculation
 // Implement cross-chain bridge
+// Add support for zk-SNARKs in smart contracts
