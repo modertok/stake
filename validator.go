@@ -17,3 +17,4 @@
 // Enhance smart contract upgradeability
 // Update testing framework for Solidity
 // Integrate Chainlink oracles
+// Update dependencies for Vyper contract
