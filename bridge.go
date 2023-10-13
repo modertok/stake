@@ -20,3 +20,4 @@
 // Fix issue with multi-chain transactions
 // Update dependencies for Vyper contract
 // Add batch processing for transactions
+// Improve error handling in transaction flow
