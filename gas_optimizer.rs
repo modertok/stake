@@ -14,3 +14,4 @@
 // Improve gas estimation for transactions
 // Add support for ERC-721A tokens
 // Optimize oracle data fetching mechanism
+// Integrate zk-rollups for scaling
