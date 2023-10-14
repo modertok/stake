@@ -16,3 +16,4 @@
 // Integrate Chainlink VRF for randomness
 // Bugfix: incorrect reward calculation
 // Fix governance proposal approval logic
+// Fix overflow bug in token calculation
