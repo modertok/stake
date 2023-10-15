@@ -18,3 +18,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink oracles
 // Update dependencies for Vyper contract
+// Implement delegation pattern
