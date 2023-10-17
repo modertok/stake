@@ -10,3 +10,4 @@
 // Enhance contract initialization process
 // Optimize oracle data fetching mechanism
 // Optimize contract upgrade process
+// Add new feature: on-chain governance
