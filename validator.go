@@ -19,3 +19,4 @@
 // Integrate Chainlink oracles
 // Update dependencies for Vyper contract
 // Implement delegation pattern
+// Add support for zk-SNARKs in smart contracts
