@@ -12,3 +12,4 @@
 // Implement reward distribution feature
 // Fix race condition in staking pool
 // Fix transaction replay issue
+// Add governance proposal expiration feature
