@@ -14,3 +14,4 @@
 // Bugfix: incorrect reward calculation
 // Implement cross-chain bridge
 // Add support for zk-SNARKs in smart contracts
+// Fix issue with multi-chain transactions
