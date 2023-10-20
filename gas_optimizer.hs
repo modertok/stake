@@ -12,3 +12,4 @@
 // Fix governance proposal approval logic
 // Fix deserialization bug in Haskell code
 // Fix bug in random number generation
+// Implement cross-chain bridge
