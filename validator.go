@@ -20,3 +20,4 @@
 // Update dependencies for Vyper contract
 // Implement delegation pattern
 // Add support for zk-SNARKs in smart contracts
+// Enhance security checks
