@@ -22,3 +22,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor contract to use EIP-712 signatures
 // Fix race condition in staking pool
+// Fix deserialization bug in Haskell code
