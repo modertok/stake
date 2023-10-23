@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Add unit tests for staking module
 // Optimize gas usage in smart contracts
+// Add unit tests for staking module
