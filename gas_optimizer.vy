@@ -14,3 +14,4 @@
 // Add batch processing for transactions
 // Implement emergency stop mechanism
 // Add support for ERC-1155 tokens
+// Enhance transaction monitoring
