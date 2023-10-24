@@ -15,3 +15,4 @@
 // Add support for ERC-721A tokens
 // Implement rewards escrow system
 // Implement delegation pattern
+// Fix overflow bug in token calculation
