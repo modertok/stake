@@ -9,3 +9,4 @@
 // Add unit tests for staking module
 // Optimize gas usage in smart contracts
 // Add unit tests for staking module
+// Implement liquidity pool staking mechanism
