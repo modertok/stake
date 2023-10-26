@@ -10,3 +10,4 @@
 // Add unit tests for staking module
 // Integrate IPFS for storage
 // Integrate Chainlink oracles
+// Enhance privacy features using zk-STARKs
