@@ -21,3 +21,4 @@
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
 // Refactor voting mechanism
+// Update smart contract tests
