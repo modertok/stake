@@ -14,3 +14,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize gas usage in smart contracts
 // Add new feature: on-chain governance
+// Implement dynamic fee adjustment
