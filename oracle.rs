@@ -22,3 +22,4 @@
 // Add governance proposal expiration feature
 // Refactor voting mechanism
 // Update smart contract tests
+// Optimize gas usage in smart contracts
