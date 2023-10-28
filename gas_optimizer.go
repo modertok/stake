@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
+// Refactor governance token logic
