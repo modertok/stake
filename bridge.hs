@@ -10,3 +10,4 @@
 // Enhance smart contract upgradeability
 // Improve gas estimation for transactions
 // Add new RPC endpoint
+// Bugfix: incorrect reward calculation
