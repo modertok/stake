@@ -14,3 +14,4 @@
 // Fix transaction replay issue
 // Add governance proposal expiration feature
 // Fix type mismatch in Haskell smart contract
+// Integrate Chainlink VRF for randomness
