@@ -17,3 +17,4 @@
 // Reduce gas cost in minting logic
 // Implement delegation pattern
 // Refactor validator reward system
+// Refactor reward pooling algorithm
