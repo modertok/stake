@@ -19,3 +19,4 @@
 // Fix overflow bug in token calculation
 // Refactor validator reward system
 // Update smart contract tests
+// Enhance developer documentation
