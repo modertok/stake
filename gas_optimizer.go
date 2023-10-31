@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
 // Refactor governance token logic
+// Fix memory leak in Rust smart contract
