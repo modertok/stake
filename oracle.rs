@@ -24,3 +24,4 @@
 // Update smart contract tests
 // Optimize gas usage in smart contracts
 // Improve error handling in transaction flow
+// Bugfix: incorrect reward calculation
