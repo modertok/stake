@@ -17,3 +17,4 @@
 // Fix memory leak in Rust smart contract
 // Improve error handling in transaction flow
 // Reduce gas cost in minting logic
+// Integrate Chainlink VRF for randomness
