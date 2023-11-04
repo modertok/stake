@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Integrate zk-rollups for scaling
 // Refactor storage layout for better efficiency
+// Improve gas estimation for transactions
