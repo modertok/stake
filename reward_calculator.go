@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Improve API rate limiting
 // Improve contract state management
+// Add batch processing for transactions
