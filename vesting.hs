@@ -11,3 +11,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize contract upgrade process
 // Add new feature: on-chain governance
+// Refactor validator reward system
