@@ -30,3 +30,4 @@
 // Add support for ERC-721A tokens
 // Fix issue in token vesting logic
 // Optimize WASM compilation for Go contracts
+// Add support for zk-SNARKs in smart contracts
