@@ -13,3 +13,4 @@
 // Fix type mismatch in Haskell smart contract
 // Refactor staking logic
 // Refactor contract to use EIP-712 signatures
+// Implement reward distribution feature
