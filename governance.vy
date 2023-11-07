@@ -14,3 +14,4 @@
 // Refactor staking logic
 // Refactor contract to use EIP-712 signatures
 // Implement reward distribution feature
+// Enhance test coverage for Rust module
