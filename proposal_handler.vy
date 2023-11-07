@@ -20,3 +20,4 @@
 // Refactor staking logic
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
+// Enhance logging for better debugging
