@@ -15,3 +15,4 @@
 // Implement cross-chain bridge
 // Add support for zk-SNARKs in smart contracts
 // Fix issue with multi-chain transactions
+// Add support for ERC-1155 tokens
