@@ -26,3 +26,4 @@
 // Improve error handling in transaction flow
 // Bugfix: incorrect reward calculation
 // Add slashing mechanism for malicious actors
+// Improve API rate limiting
