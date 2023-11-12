@@ -9,3 +9,4 @@
 // Refactor voting mechanism
 // Implement on-chain identity verification
 // Add multi-sig wallet functionality
+// Reduce gas cost in minting logic
