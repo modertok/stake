@@ -12,3 +12,4 @@
 // Add new RPC endpoint
 // Bugfix: incorrect reward calculation
 // Enhance transaction monitoring
+// Fix compatibility with MetaMask
