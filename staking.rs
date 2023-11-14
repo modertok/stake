@@ -14,3 +14,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize proof-of-stake validation
 // Integrate IPFS for storage
+// Fix issue in token vesting logic
