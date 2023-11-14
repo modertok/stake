@@ -13,3 +13,4 @@
 // Fix deserialization bug in Haskell code
 // Fix bug in random number generation
 // Implement cross-chain bridge
+// Fix issue with multi-chain transactions
