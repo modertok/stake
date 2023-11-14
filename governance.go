@@ -13,3 +13,4 @@
 // Implement emergency stop mechanism
 // Fix deserialization bug in Haskell code
 // Fix interoperability issues with other blockchains
+// Fix deserialization bug in Haskell code
