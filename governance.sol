@@ -22,3 +22,4 @@
 // Enhance security checks
 // Optimize gas usage in smart contracts
 // Integrate Chainlink VRF for randomness
+// Add slashing mechanism for malicious actors
