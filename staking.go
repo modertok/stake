@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize proof-of-stake validation
 // Improve contract modularity
+// Update README with Go module examples
