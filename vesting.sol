@@ -33,3 +33,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance developer documentation
 // Update README with Go module examples
+// Optimize storage for off-chain data
