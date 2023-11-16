@@ -13,3 +13,4 @@
 // Fix memory leak in Rust smart contract
 // Implement reward distribution feature
 // Fix governance proposal approval logic
+// Enhance privacy features using zk-STARKs
