@@ -18,3 +18,4 @@
 // Improve error handling in transaction flow
 // Reduce gas cost in minting logic
 // Integrate Chainlink VRF for randomness
+// Add batch processing for transactions
