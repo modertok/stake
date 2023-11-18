@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Implement delegation pattern
 // Enhance gas fee management
+// Enhance test coverage for Rust module
