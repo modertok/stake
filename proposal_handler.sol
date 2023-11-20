@@ -14,3 +14,4 @@
 // Implement reward distribution feature
 // Fix governance proposal approval logic
 // Enhance privacy features using zk-STARKs
+// Enhance contract initialization process
