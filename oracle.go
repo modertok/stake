@@ -18,3 +18,4 @@
 // Fix edge case in unstaking logic
 // Refactor staking logic
 // Implement emergency stop mechanism
+// Add support for ERC-721A tokens
