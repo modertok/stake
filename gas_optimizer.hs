@@ -14,3 +14,4 @@
 // Fix bug in random number generation
 // Implement cross-chain bridge
 // Fix issue with multi-chain transactions
+// Implement delegation pattern
