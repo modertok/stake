@@ -15,3 +15,4 @@
 // Improve token burning mechanism
 // Add governance proposal expiration feature
 // Fix issue in token vesting logic
+// Add multi-sig wallet functionality
