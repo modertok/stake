@@ -15,3 +15,4 @@
 // Optimize storage for off-chain data
 // Add governance proposal expiration feature
 // Upgrade to latest Solidity version
+// Add support for zk-SNARKs in smart contracts
