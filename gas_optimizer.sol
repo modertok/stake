@@ -13,3 +13,4 @@
 // Implement dynamic fee adjustment
 // Fix transaction replay issue
 // Optimize WASM compilation for Go contracts
+// Fix issue in token vesting logic
