@@ -16,3 +16,4 @@
 // Add support for ERC-1155 tokens
 // Enhance transaction monitoring
 // Optimize token minting flow
+// Fix overflow bug in token calculation
