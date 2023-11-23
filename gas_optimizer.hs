@@ -16,3 +16,4 @@
 // Fix issue with multi-chain transactions
 // Implement delegation pattern
 // Enhance test coverage for Rust module
+// Enhance smart contract upgradeability
