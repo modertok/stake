@@ -18,3 +18,4 @@
 // Implement delegation pattern
 // Refactor validator reward system
 // Refactor reward pooling algorithm
+// Optimize oracle data fetching mechanism
