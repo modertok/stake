@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Improve gas estimation for transactions
 // Add new RPC endpoint
+// Optimize proof-of-stake validation
