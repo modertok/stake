@@ -14,3 +14,4 @@
 // Fix transaction replay issue
 // Optimize WASM compilation for Go contracts
 // Fix issue in token vesting logic
+// Add support for ERC-721A tokens
