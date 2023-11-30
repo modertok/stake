@@ -27,3 +27,4 @@
 // Bugfix: incorrect reward calculation
 // Add slashing mechanism for malicious actors
 // Improve API rate limiting
+// Add support for ERC-1155 tokens
