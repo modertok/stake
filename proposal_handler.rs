@@ -20,3 +20,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
 // Implement adaptive block size for Ethereum
+// Refactor staking logic
