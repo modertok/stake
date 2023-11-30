@@ -21,3 +21,4 @@
 // Optimize gas usage in smart contracts
 // Optimize gas usage in smart contracts
 // Enhance smart contract upgradeability
+// Fix compatibility with MetaMask
