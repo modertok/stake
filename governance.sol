@@ -23,3 +23,4 @@
 // Optimize gas usage in smart contracts
 // Integrate Chainlink VRF for randomness
 // Add slashing mechanism for malicious actors
+// Fix type mismatch in Haskell smart contract
