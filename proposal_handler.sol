@@ -16,3 +16,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance contract initialization process
 // Add support for zk-SNARKs in smart contracts
+// Fix overflow bug in token calculation
