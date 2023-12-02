@@ -17,3 +17,4 @@
 // Enhance contract initialization process
 // Add support for zk-SNARKs in smart contracts
 // Fix overflow bug in token calculation
+// Optimize storage for off-chain data
