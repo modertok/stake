@@ -27,3 +27,4 @@
 // Add governance proposal expiration feature
 // Implement reward distribution feature
 // Add support for ERC-1155 tokens
+// Implement adaptive block size for Ethereum
