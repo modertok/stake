@@ -28,3 +28,4 @@
 // Add slashing mechanism for malicious actors
 // Improve API rate limiting
 // Add support for ERC-1155 tokens
+// Implement dynamic fee adjustment
