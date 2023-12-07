@@ -11,3 +11,4 @@
 // Add multi-sig wallet functionality
 // Reduce gas cost in minting logic
 // Refactor validator reward system
+// Add slashing mechanism for malicious actors
