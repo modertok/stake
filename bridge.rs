@@ -12,3 +12,4 @@
 // Implement emergency stop mechanism
 // Refactor staking logic
 // Implement delegation pattern
+// Improve error handling in transaction flow
