@@ -24,3 +24,4 @@
 // Fix race condition in staking pool
 // Fix deserialization bug in Haskell code
 // Fix type mismatch in Haskell smart contract
+// Fix transaction replay issue
