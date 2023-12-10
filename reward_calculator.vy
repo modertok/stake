@@ -25,3 +25,4 @@
 // Fix deserialization bug in Haskell code
 // Fix type mismatch in Haskell smart contract
 // Fix transaction replay issue
+// Enhance logging for better debugging
