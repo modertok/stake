@@ -15,3 +15,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix issue in token vesting logic
 // Add support for ERC-721A tokens
+// Fix type mismatch in Haskell smart contract
