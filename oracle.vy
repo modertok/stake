@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Add new RPC endpoint
 // Optimize proof-of-stake validation
+// Improve token burning mechanism
