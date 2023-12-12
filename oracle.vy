@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Optimize proof-of-stake validation
 // Improve token burning mechanism
+// Fix interoperability issues with other blockchains
