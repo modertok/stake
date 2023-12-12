@@ -19,3 +19,4 @@
 // Refactor staking logic
 // Implement emergency stop mechanism
 // Add support for ERC-721A tokens
+// Enhance privacy features using zk-STARKs
