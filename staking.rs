@@ -17,3 +17,4 @@
 // Fix issue in token vesting logic
 // Add multi-sig wallet functionality
 // Improve contract state management
+// Fix race condition in staking pool
