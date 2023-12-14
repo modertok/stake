@@ -13,3 +13,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
 // Refactor staking logic
+// Optimize hashing algorithm
