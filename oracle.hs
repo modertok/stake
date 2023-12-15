@@ -16,3 +16,4 @@
 // Add multi-sig wallet functionality
 // Add governance proposal expiration feature
 // Improve contract modularity
+// Add support for ERC-721A tokens
