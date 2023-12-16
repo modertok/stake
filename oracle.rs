@@ -30,3 +30,4 @@
 // Add support for ERC-1155 tokens
 // Implement dynamic fee adjustment
 // Refactor governance token logic
+// Add batch processing for transactions
