@@ -17,3 +17,4 @@
 // Optimize token minting flow
 // Implement dynamic fee adjustment
 // Fix issue in token vesting logic
+// Add support for ERC-1155 tokens
