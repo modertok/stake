@@ -6,3 +6,4 @@
 // Improve contract state management
 // Add batch processing for transactions
 // Upgrade to latest Solidity version
+// Fix compatibility with MetaMask
