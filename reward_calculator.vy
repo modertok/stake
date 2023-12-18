@@ -26,3 +26,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix transaction replay issue
 // Enhance logging for better debugging
+// Update smart contract tests
