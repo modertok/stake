@@ -18,3 +18,4 @@
 // Add multi-sig wallet functionality
 // Improve contract state management
 // Fix race condition in staking pool
+// Implement on-chain identity verification
