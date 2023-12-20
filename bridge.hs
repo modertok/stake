@@ -13,3 +13,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance transaction monitoring
 // Fix compatibility with MetaMask
+// Bugfix: incorrect reward calculation
