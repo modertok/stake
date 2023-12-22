@@ -21,3 +21,4 @@
 // Update smart contract tests
 // Enhance developer documentation
 // Refactor incentive structure in DeFi protocol
+// Add support for multiple consensus mechanisms
