@@ -20,3 +20,4 @@
 // Fix race condition in staking pool
 // Implement on-chain identity verification
 // Code cleanup and documentation update
+// Add unit tests for staking module
