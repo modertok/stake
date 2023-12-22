@@ -14,3 +14,4 @@
 // Enhance transaction monitoring
 // Fix compatibility with MetaMask
 // Bugfix: incorrect reward calculation
+// Code cleanup and documentation update
