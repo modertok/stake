@@ -19,3 +19,4 @@
 // Fix overflow bug in token calculation
 // Optimize storage for off-chain data
 // Fix issue with multi-chain transactions
+// Implement delegation pattern
