@@ -28,3 +28,4 @@
 // Enhance logging for better debugging
 // Update smart contract tests
 // Optimize gas usage in smart contracts
+// Optimize storage for off-chain data
