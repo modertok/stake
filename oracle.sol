@@ -20,3 +20,4 @@
 // Refactor reward pooling algorithm
 // Optimize oracle data fetching mechanism
 // Optimize gas usage in smart contracts
+// Improve token burning mechanism
