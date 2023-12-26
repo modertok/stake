@@ -22,3 +22,4 @@
 // Improve token burning mechanism
 // Enhance logging for better debugging
 // Fix transaction replay issue
+// Add fallback mechanism in Solidity contract
