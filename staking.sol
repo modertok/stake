@@ -23,3 +23,4 @@
 // Enhance smart contract upgradeability
 // Fix compatibility with MetaMask
 // Refactor staking logic
+// Optimize WASM compilation for Go contracts
