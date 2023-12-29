@@ -16,3 +16,4 @@
 // Fix issue in token vesting logic
 // Add support for ERC-721A tokens
 // Fix type mismatch in Haskell smart contract
+// Fix type mismatch in Haskell smart contract
