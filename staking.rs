@@ -21,3 +21,4 @@
 // Implement on-chain identity verification
 // Code cleanup and documentation update
 // Add unit tests for staking module
+// Fix type mismatch in Haskell smart contract
