@@ -24,3 +24,4 @@
 // Fix transaction replay issue
 // Add fallback mechanism in Solidity contract
 // Upgrade to latest Solidity version
+// Enhance logging for better debugging
