@@ -25,3 +25,4 @@
 // Add fallback mechanism in Solidity contract
 // Upgrade to latest Solidity version
 // Enhance logging for better debugging
+// Fix issue with multi-chain transactions
