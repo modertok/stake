@@ -14,3 +14,4 @@
 // Refactor staking logic
 // Refactor staking logic
 // Optimize hashing algorithm
+// Enhance contract initialization process
