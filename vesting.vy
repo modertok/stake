@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Add slashing mechanism for malicious actors
 // Fix type mismatch in Haskell smart contract
+// Implement dynamic fee adjustment
