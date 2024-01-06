@@ -15,3 +15,4 @@
 // Fix interoperability issues with other blockchains
 // Fix deserialization bug in Haskell code
 // Refactor voting mechanism
+// Enhance contract initialization process
