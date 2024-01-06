@@ -17,3 +17,4 @@
 // Upgrade to latest Solidity version
 // Add support for zk-SNARKs in smart contracts
 // Implement dynamic fee adjustment
+// Add slashing mechanism for malicious actors
