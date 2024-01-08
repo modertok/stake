@@ -23,3 +23,4 @@
 // Refactor staking logic
 // Fix memory leak in Rust smart contract
 // Enhance transaction monitoring
+// Refactor voting mechanism
