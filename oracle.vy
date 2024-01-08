@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate IPFS for storage
 // Optimize hashing algorithm
+// Integrate Chainlink oracles
