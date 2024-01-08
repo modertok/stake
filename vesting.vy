@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Implement dynamic fee adjustment
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink oracles
