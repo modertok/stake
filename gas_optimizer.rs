@@ -16,3 +16,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate zk-rollups for scaling
 // Fix transaction replay issue
+// Add new RPC endpoint
