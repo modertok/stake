@@ -23,3 +23,4 @@
 // Add unit tests for staking module
 // Fix type mismatch in Haskell smart contract
 // Add governance proposal expiration feature
+// Improve contract state management
