@@ -16,3 +16,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor voting mechanism
 // Enhance contract initialization process
+// Add support for ERC-721A tokens
