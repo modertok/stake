@@ -19,3 +19,4 @@
 // Fix issue in token vesting logic
 // Add support for ERC-1155 tokens
 // Integrate Chainlink VRF for randomness
+// Add slashing mechanism for malicious actors
