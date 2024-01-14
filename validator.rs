@@ -23,3 +23,4 @@
 // Optimize gas usage in smart contracts
 // Fix interoperability issues with other blockchains
 // Add new RPC endpoint
+// Fix issue with multi-chain transactions
