@@ -17,3 +17,4 @@
 // Add support for ERC-721A tokens
 // Fix type mismatch in Haskell smart contract
 // Fix type mismatch in Haskell smart contract
+// Code cleanup and documentation update
