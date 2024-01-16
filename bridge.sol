@@ -25,3 +25,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix transaction replay issue
 // Fix bug in random number generation
+// Enhance contract initialization process
