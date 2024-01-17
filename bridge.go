@@ -25,3 +25,4 @@
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
 // Optimize storage for off-chain data
+// Refactor validator reward system
