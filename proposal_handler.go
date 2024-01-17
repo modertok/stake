@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Enhance security checks
 // Refactor staking logic
+// Implement delegation pattern
