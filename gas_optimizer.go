@@ -9,3 +9,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve error handling in transaction flow
 // Update README with Go module examples
+// Refactor incentive structure in DeFi protocol
