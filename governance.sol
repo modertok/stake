@@ -25,3 +25,4 @@
 // Add slashing mechanism for malicious actors
 // Fix type mismatch in Haskell smart contract
 // Improve token burning mechanism
+// Reduce gas cost in minting logic
