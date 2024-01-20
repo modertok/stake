@@ -13,3 +13,4 @@
 // Refactor validator reward system
 // Add slashing mechanism for malicious actors
 // Enhance security checks
+// Improve API rate limiting
