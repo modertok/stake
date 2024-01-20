@@ -24,3 +24,4 @@
 // Fix compatibility with MetaMask
 // Refactor staking logic
 // Optimize WASM compilation for Go contracts
+// Fix interoperability issues with other blockchains
