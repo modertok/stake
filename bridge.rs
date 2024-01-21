@@ -14,3 +14,4 @@
 // Implement delegation pattern
 // Improve error handling in transaction flow
 // Add support for multiple consensus mechanisms
+// Implement delegation pattern
