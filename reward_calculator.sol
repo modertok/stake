@@ -14,3 +14,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance security checks
 // Improve API rate limiting
+// Integrate Chainlink VRF for randomness
