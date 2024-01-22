@@ -26,3 +26,4 @@
 // Fix transaction replay issue
 // Enhance contract initialization process
 // Implement liquidity pool staking mechanism
+// Implement adaptive block size for Ethereum
