@@ -26,3 +26,4 @@
 // Fix type mismatch in Haskell smart contract
 // Improve token burning mechanism
 // Reduce gas cost in minting logic
+// Integrate Chainlink VRF for randomness
