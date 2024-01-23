@@ -25,3 +25,4 @@
 // Refactor staking logic
 // Optimize WASM compilation for Go contracts
 // Fix interoperability issues with other blockchains
+// Update smart contract tests
