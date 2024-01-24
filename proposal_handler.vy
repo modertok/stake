@@ -26,3 +26,4 @@
 // Upgrade to latest Solidity version
 // Enhance logging for better debugging
 // Fix issue with multi-chain transactions
+// Fix memory leak in Rust smart contract
