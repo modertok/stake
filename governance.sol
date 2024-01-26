@@ -28,3 +28,4 @@
 // Reduce gas cost in minting logic
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
+// Fix deserialization bug in Haskell code
