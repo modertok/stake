@@ -30,3 +30,4 @@
 // Optimize gas usage in smart contracts
 // Optimize storage for off-chain data
 // Integrate IPFS for storage
+// Enhance test coverage for Rust module
