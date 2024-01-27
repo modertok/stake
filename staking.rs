@@ -24,3 +24,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add governance proposal expiration feature
 // Improve contract state management
+// Improve gas estimation for transactions
