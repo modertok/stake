@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Improve contract modularity
 // Update README with Go module examples
+// Refactor storage layout for better efficiency
