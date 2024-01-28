@@ -29,3 +29,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
 // Fix deserialization bug in Haskell code
+// Integrate IPFS for storage
