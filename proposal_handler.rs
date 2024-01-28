@@ -25,3 +25,4 @@
 // Enhance transaction monitoring
 // Refactor voting mechanism
 // Enhance privacy features using zk-STARKs
+// Fix type mismatch in Haskell smart contract
