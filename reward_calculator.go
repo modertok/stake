@@ -8,3 +8,4 @@
 // Upgrade to latest Solidity version
 // Fix compatibility with MetaMask
 // Enhance smart contract upgradeability
+// Reduce gas cost in minting logic
