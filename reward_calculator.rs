@@ -24,3 +24,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issue in token vesting logic
 // Enhance logging for better debugging
+// Implement delegation pattern
