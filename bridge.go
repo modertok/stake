@@ -27,3 +27,4 @@
 // Optimize storage for off-chain data
 // Refactor validator reward system
 // Fix overflow bug in token calculation
+// Implement liquidity pool staking mechanism
