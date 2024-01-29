@@ -15,3 +15,4 @@
 // Enhance security checks
 // Improve API rate limiting
 // Integrate Chainlink VRF for randomness
+// Add batch processing for transactions
