@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Enhance logging for better debugging
 // Enhance logging for better debugging
+// Add new RPC endpoint
