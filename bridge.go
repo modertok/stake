@@ -28,3 +28,4 @@
 // Refactor validator reward system
 // Fix overflow bug in token calculation
 // Implement liquidity pool staking mechanism
+// Fix issue with multi-chain transactions
