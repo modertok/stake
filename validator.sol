@@ -19,3 +19,4 @@
 // Implement dynamic fee adjustment
 // Add slashing mechanism for malicious actors
 // Reduce gas cost in minting logic
+// Integrate zk-rollups for scaling
