@@ -25,3 +25,4 @@
 // Fix issue in token vesting logic
 // Enhance logging for better debugging
 // Implement delegation pattern
+// Improve token burning mechanism
