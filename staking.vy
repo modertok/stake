@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Update smart contract tests
 // Fix issue in token vesting logic
+// Refactor voting mechanism
