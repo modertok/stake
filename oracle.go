@@ -22,3 +22,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize WASM compilation for Go contracts
 // Fix edge case in unstaking logic
+// Fix race condition in staking pool
