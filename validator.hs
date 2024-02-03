@@ -24,3 +24,4 @@
 // Implement emergency stop mechanism
 // Fix compatibility with MetaMask
 // Improve contract state management
+// Fix race condition in staking pool
