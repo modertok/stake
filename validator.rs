@@ -25,3 +25,4 @@
 // Add new RPC endpoint
 // Fix issue with multi-chain transactions
 // Add new feature: on-chain governance
+// Implement adaptive block size for Ethereum
