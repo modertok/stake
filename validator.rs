@@ -24,3 +24,4 @@
 // Fix interoperability issues with other blockchains
 // Add new RPC endpoint
 // Fix issue with multi-chain transactions
+// Add new feature: on-chain governance
