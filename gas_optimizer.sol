@@ -19,3 +19,4 @@
 // Fix type mismatch in Haskell smart contract
 // Code cleanup and documentation update
 // Integrate Chainlink VRF for randomness
+// Enhance developer documentation
