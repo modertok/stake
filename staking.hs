@@ -21,3 +21,4 @@
 // Fix issue in token vesting logic
 // Refactor validator reward system
 // Bugfix: incorrect reward calculation
+// Add support for zk-SNARKs in smart contracts
