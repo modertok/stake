@@ -20,3 +20,4 @@
 // Fix governance proposal approval logic
 // Add support for multiple consensus mechanisms
 // Improve contract modularity
+// Bugfix: incorrect reward calculation
