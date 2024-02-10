@@ -15,3 +15,4 @@
 // Fix bug in random number generation
 // Fix security vulnerability in random number generation
 // Fix compatibility with MetaMask
+// Refactor contract to use EIP-712 signatures
