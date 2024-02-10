@@ -21,3 +21,4 @@
 // Add support for multiple consensus mechanisms
 // Improve contract modularity
 // Bugfix: incorrect reward calculation
+// Optimize gas usage in smart contracts
