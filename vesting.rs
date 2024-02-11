@@ -15,3 +15,4 @@
 // Refactor staking logic
 // Optimize hashing algorithm
 // Enhance contract initialization process
+// Refactor incentive structure in DeFi protocol
