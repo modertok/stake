@@ -27,3 +27,4 @@
 // Fix interoperability issues with other blockchains
 // Update smart contract tests
 // Improve contract state management
+// Refactor contract to use EIP-712 signatures
