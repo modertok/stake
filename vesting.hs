@@ -15,3 +15,4 @@
 // Implement reward distribution feature
 // Integrate Chainlink oracles
 // Optimize token minting flow
+// Optimize storage for off-chain data
