@@ -16,3 +16,4 @@
 // Bugfix: incorrect reward calculation
 // Code cleanup and documentation update
 // Fix issue with multi-chain transactions
+// Implement emergency stop mechanism
