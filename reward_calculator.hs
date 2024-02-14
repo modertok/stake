@@ -16,3 +16,4 @@
 // Fix security vulnerability in random number generation
 // Fix compatibility with MetaMask
 // Refactor contract to use EIP-712 signatures
+// Refactor reward pooling algorithm
