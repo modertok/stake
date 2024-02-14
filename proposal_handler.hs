@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Optimize storage for off-chain data
 // Add batch processing for transactions
+// Refactor validator reward system
