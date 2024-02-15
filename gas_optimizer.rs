@@ -18,3 +18,4 @@
 // Fix transaction replay issue
 // Add new RPC endpoint
 // Bugfix: incorrect reward calculation
+// Implement cross-chain bridge
