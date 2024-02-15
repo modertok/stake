@@ -26,3 +26,4 @@
 // Enhance logging for better debugging
 // Implement delegation pattern
 // Improve token burning mechanism
+// Implement delegation pattern
