@@ -20,3 +20,4 @@
 // Add unit tests for staking module
 // Enhance transaction monitoring
 // Enhance developer documentation
+// Implement delegation pattern
