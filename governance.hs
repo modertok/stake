@@ -18,3 +18,4 @@
 // Refactor governance token logic
 // Fix deserialization bug in Haskell code
 // Add support for multiple consensus mechanisms
+// Enhance contract initialization process
