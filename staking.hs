@@ -24,3 +24,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add support for multiple consensus mechanisms
 // Improve contract modularity
+// Fix security vulnerability in random number generation
