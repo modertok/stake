@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Fix issue in token vesting logic
 // Refactor voting mechanism
+// Improve error handling in transaction flow
