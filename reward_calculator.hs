@@ -17,3 +17,4 @@
 // Fix compatibility with MetaMask
 // Refactor contract to use EIP-712 signatures
 // Refactor reward pooling algorithm
+// Fix issue in ERC-20 token transfers
