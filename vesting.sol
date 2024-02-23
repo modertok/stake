@@ -36,3 +36,4 @@
 // Optimize storage for off-chain data
 // Optimize oracle data fetching mechanism
 // Optimize contract upgrade process
+// Update dependencies for Vyper contract
