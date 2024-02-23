@@ -27,3 +27,4 @@
 // Implement delegation pattern
 // Improve token burning mechanism
 // Implement delegation pattern
+// Refactor validator reward system
