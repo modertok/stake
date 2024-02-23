@@ -21,3 +21,4 @@
 // Reduce gas cost in minting logic
 // Integrate zk-rollups for scaling
 // Optimize gas usage in smart contracts
+// Refactor staking logic
