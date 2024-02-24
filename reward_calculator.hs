@@ -19,3 +19,4 @@
 // Refactor reward pooling algorithm
 // Fix issue in ERC-20 token transfers
 // Improve API rate limiting
+// Add new feature: on-chain governance
