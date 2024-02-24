@@ -20,3 +20,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve API rate limiting
 // Add new feature: on-chain governance
+// Add multi-sig wallet functionality
