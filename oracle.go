@@ -24,3 +24,4 @@
 // Fix edge case in unstaking logic
 // Fix race condition in staking pool
 // Upgrade to latest Solidity version
+// Improve error handling in transaction flow
