@@ -21,3 +21,4 @@
 // Enhance transaction monitoring
 // Enhance logging for better debugging
 // Refactor staking logic
+// Implement delegation pattern
