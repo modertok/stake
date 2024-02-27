@@ -20,3 +20,4 @@
 // Bugfix: incorrect reward calculation
 // Implement cross-chain bridge
 // Integrate zk-rollups for scaling
+// Implement delegation pattern
