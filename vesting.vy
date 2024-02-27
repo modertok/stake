@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate Chainlink oracles
 // Fix race condition in staking pool
+// Add unit tests for staking module
