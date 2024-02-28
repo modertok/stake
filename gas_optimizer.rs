@@ -21,3 +21,4 @@
 // Implement cross-chain bridge
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
+// Add batch processing for transactions
