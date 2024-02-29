@@ -28,3 +28,4 @@
 // Improve token burning mechanism
 // Implement delegation pattern
 // Refactor validator reward system
+// Refactor reward pooling algorithm
