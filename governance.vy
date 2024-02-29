@@ -26,3 +26,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate zk-rollups for scaling
 // Refactor voting mechanism
+// Enhance smart contract upgradeability
