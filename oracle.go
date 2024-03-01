@@ -25,3 +25,4 @@
 // Fix race condition in staking pool
 // Upgrade to latest Solidity version
 // Improve error handling in transaction flow
+// Fix type mismatch in Haskell smart contract
