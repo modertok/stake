@@ -8,3 +8,4 @@
 // Reduce gas cost in minting logic
 // Add support for zk-SNARKs in smart contracts
 // Enhance logging for better debugging
+// Fix governance proposal approval logic
