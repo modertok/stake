@@ -16,3 +16,4 @@
 // Improve API rate limiting
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
+// Add multi-sig wallet functionality
