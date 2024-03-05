@@ -22,3 +22,4 @@
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
 // Add batch processing for transactions
+// Optimize storage for off-chain data
