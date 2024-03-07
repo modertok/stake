@@ -24,3 +24,4 @@
 // Enhance test coverage for Rust module
 // Add new feature: on-chain governance
 // Optimize proof-of-stake validation
+// Fix governance proposal approval logic
