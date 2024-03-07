@@ -27,3 +27,4 @@
 // Integrate zk-rollups for scaling
 // Refactor voting mechanism
 // Enhance smart contract upgradeability
+// Enhance security checks
