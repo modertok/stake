@@ -18,3 +18,4 @@
 // Fix issue with multi-chain transactions
 // Implement emergency stop mechanism
 // Upgrade to latest Solidity version
+// Fix edge case in unstaking logic
