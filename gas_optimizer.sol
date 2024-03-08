@@ -20,3 +20,4 @@
 // Code cleanup and documentation update
 // Integrate Chainlink VRF for randomness
 // Enhance developer documentation
+// Fix race condition in staking pool
