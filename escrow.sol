@@ -30,3 +30,4 @@
 // Improve error handling in transaction flow
 // Optimize proof-of-stake validation
 // Implement delegation pattern
+// Improve gas estimation for transactions
