@@ -22,3 +22,4 @@
 // Enhance logging for better debugging
 // Refactor staking logic
 // Implement delegation pattern
+// Optimize oracle data fetching mechanism
