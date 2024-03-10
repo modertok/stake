@@ -17,3 +17,4 @@
 // Optimize token minting flow
 // Optimize storage for off-chain data
 // Refactor validator reward system
+// Fix deserialization bug in Haskell code
