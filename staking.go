@@ -9,3 +9,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance logging for better debugging
 // Fix governance proposal approval logic
+// Improve gas estimation for transactions
