@@ -21,3 +21,4 @@
 // Improve API rate limiting
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
+// Enhance transaction monitoring
