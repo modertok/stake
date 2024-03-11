@@ -23,3 +23,4 @@
 // Implement delegation pattern
 // Implement emergency stop mechanism
 // Code cleanup and documentation update
+// Add fallback mechanism in Solidity contract
