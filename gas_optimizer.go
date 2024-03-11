@@ -12,3 +12,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract modularity
 // Improve contract state management
+// Refactor reward pooling algorithm
