@@ -23,3 +23,4 @@
 // Refactor staking logic
 // Implement delegation pattern
 // Optimize oracle data fetching mechanism
+// Improve contract state management
