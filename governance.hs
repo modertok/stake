@@ -20,3 +20,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance contract initialization process
 // Fix interoperability issues with other blockchains
+// Fix type mismatch in Haskell smart contract
