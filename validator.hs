@@ -25,3 +25,4 @@
 // Fix compatibility with MetaMask
 // Improve contract state management
 // Fix race condition in staking pool
+// Fix deserialization bug in Haskell code
