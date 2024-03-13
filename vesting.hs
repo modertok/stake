@@ -18,3 +18,4 @@
 // Optimize storage for off-chain data
 // Refactor validator reward system
 // Fix deserialization bug in Haskell code
+// Update smart contract tests
