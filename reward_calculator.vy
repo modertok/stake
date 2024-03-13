@@ -31,3 +31,4 @@
 // Optimize storage for off-chain data
 // Integrate IPFS for storage
 // Enhance test coverage for Rust module
+// Add fallback mechanism in Solidity contract
