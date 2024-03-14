@@ -11,3 +11,4 @@
 // Fix governance proposal approval logic
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
+// Fix edge case in unstaking logic
