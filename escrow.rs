@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix governance proposal approval logic
 // Refactor contract to use EIP-712 signatures
+// Enhance test coverage for Rust module
