@@ -33,3 +33,4 @@
 // Improve contract state management
 // Improve token burning mechanism
 // Refactor incentive structure in DeFi protocol
+// Refactor voting mechanism
