@@ -29,3 +29,4 @@
 // Implement delegation pattern
 // Refactor validator reward system
 // Refactor reward pooling algorithm
+// Implement delegation pattern
