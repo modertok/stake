@@ -30,3 +30,4 @@
 // Refactor validator reward system
 // Refactor reward pooling algorithm
 // Implement delegation pattern
+// Refactor voting mechanism
