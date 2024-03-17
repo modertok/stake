@@ -23,3 +23,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize gas usage in smart contracts
 // Implement dynamic fee adjustment
+// Implement liquidity pool staking mechanism
