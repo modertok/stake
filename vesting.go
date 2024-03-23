@@ -23,3 +23,4 @@
 // Optimize token minting flow
 // Improve contract modularity
 // Improve contract modularity
+// Fix interoperability issues with other blockchains
