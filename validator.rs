@@ -26,3 +26,4 @@
 // Fix issue with multi-chain transactions
 // Add new feature: on-chain governance
 // Implement adaptive block size for Ethereum
+// Refactor incentive structure in DeFi protocol
