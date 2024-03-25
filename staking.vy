@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Improve API rate limiting
 // Implement liquidity pool staking mechanism
+// Enhance security checks
