@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
 // Implement delegation pattern
+// Optimize gas usage in smart contracts
