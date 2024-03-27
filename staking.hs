@@ -27,3 +27,4 @@
 // Fix security vulnerability in random number generation
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
+// Fix bug in random number generation
