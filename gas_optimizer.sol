@@ -21,3 +21,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance developer documentation
 // Fix race condition in staking pool
+// Enhance test coverage for Rust module
