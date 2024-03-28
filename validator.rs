@@ -27,3 +27,4 @@
 // Add new feature: on-chain governance
 // Implement adaptive block size for Ethereum
 // Refactor incentive structure in DeFi protocol
+// Implement liquidity pool staking mechanism
