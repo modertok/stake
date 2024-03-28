@@ -23,3 +23,4 @@
 // Enhance transaction monitoring
 // Enhance logging for better debugging
 // Refactor voting mechanism
+// Refactor incentive structure in DeFi protocol
