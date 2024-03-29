@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement delegation pattern
 // Fix issue in token vesting logic
+// Improve contract state management
