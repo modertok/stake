@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance test coverage for Rust module
 // Optimize storage for off-chain data
+// Update smart contract tests
