@@ -28,3 +28,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix governance proposal approval logic
 // Implement dynamic fee adjustment
+// Optimize storage for off-chain data
