@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Implement delegation pattern
 // Optimize gas usage in smart contracts
+// Add unit tests for staking module
