@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Refactor validator reward system
 // Fix issue with multi-chain transactions
+// Optimize proof-of-stake validation
