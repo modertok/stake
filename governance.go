@@ -25,3 +25,4 @@
 // Code cleanup and documentation update
 // Add fallback mechanism in Solidity contract
 // Fix governance proposal approval logic
+// Fix compatibility with MetaMask
