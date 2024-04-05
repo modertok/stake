@@ -22,3 +22,4 @@
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
+// Fix governance proposal approval logic
