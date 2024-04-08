@@ -32,3 +32,4 @@
 // Refactor storage layout for better efficiency
 // Integrate Chainlink VRF for randomness
 // Update README with Go module examples
+// Add multi-sig wallet functionality
