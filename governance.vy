@@ -28,3 +28,4 @@
 // Refactor voting mechanism
 // Enhance smart contract upgradeability
 // Enhance security checks
+// Fix type mismatch in Haskell smart contract
