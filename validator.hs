@@ -27,3 +27,4 @@
 // Fix race condition in staking pool
 // Fix deserialization bug in Haskell code
 // Improve API rate limiting
+// Optimize contract upgrade process
