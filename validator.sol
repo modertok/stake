@@ -23,3 +23,4 @@
 // Optimize gas usage in smart contracts
 // Refactor staking logic
 // Optimize WASM compilation for Go contracts
+// Implement delegation pattern
