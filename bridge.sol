@@ -29,3 +29,4 @@
 // Add slashing mechanism for malicious actors
 // Refactor reward pooling algorithm
 // Enhance developer documentation
+// Optimize oracle data fetching mechanism
