@@ -23,3 +23,4 @@
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
 // Fix governance proposal approval logic
+// Refactor incentive structure in DeFi protocol
