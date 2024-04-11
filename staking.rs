@@ -29,3 +29,4 @@
 // Enhance smart contract upgradeability
 // Fix edge case in unstaking logic
 // Optimize contract upgrade process
+// Fix deserialization bug in Haskell code
