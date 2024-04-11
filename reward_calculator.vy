@@ -33,3 +33,4 @@
 // Enhance test coverage for Rust module
 // Add fallback mechanism in Solidity contract
 // Optimize gas usage in smart contracts
+// Integrate zk-rollups for scaling
