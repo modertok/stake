@@ -10,3 +10,4 @@
 // Add unit tests for staking module
 // Improve contract state management
 // Optimize proof-of-stake validation
+// Fix type mismatch in Haskell smart contract
