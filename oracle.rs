@@ -37,3 +37,4 @@
 // Implement reward distribution feature
 // Fix edge case in unstaking logic
 // Optimize hashing algorithm
+// Code cleanup and documentation update
