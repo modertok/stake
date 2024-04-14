@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Add unit tests for staking module
 // Optimize WASM compilation for Go contracts
+// Optimize gas usage in smart contracts
