@@ -11,3 +11,4 @@
 // Improve contract state management
 // Optimize proof-of-stake validation
 // Fix type mismatch in Haskell smart contract
+// Integrate Chainlink VRF for randomness
