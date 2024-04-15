@@ -28,3 +28,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor incentive structure in DeFi protocol
 // Implement liquidity pool staking mechanism
+// Add unit tests for staking module
