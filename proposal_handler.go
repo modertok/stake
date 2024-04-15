@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Improve contract state management
 // Fix edge case in unstaking logic
+// Update dependencies for Vyper contract
