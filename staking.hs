@@ -29,3 +29,4 @@
 // Bugfix: incorrect reward calculation
 // Fix bug in random number generation
 // Enhance smart contract upgradeability
+// Refactor validator reward system
