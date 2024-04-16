@@ -31,3 +31,4 @@
 // Refactor reward pooling algorithm
 // Implement delegation pattern
 // Refactor voting mechanism
+// Implement adaptive block size for Ethereum
