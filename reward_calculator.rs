@@ -32,3 +32,4 @@
 // Implement delegation pattern
 // Refactor voting mechanism
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink VRF for randomness
