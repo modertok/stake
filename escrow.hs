@@ -26,3 +26,4 @@
 // Refactor incentive structure in DeFi protocol
 // Optimize proof-of-stake validation
 // Implement dynamic fee adjustment
+// Bugfix: incorrect reward calculation
