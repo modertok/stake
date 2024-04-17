@@ -26,3 +26,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix governance proposal approval logic
 // Fix compatibility with MetaMask
+// Refactor contract to use EIP-712 signatures
