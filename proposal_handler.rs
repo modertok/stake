@@ -29,3 +29,4 @@
 // Fix governance proposal approval logic
 // Implement dynamic fee adjustment
 // Optimize storage for off-chain data
+// Integrate zk-rollups for scaling
