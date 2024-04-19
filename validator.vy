@@ -25,3 +25,4 @@
 // Add new feature: on-chain governance
 // Optimize proof-of-stake validation
 // Fix governance proposal approval logic
+// Implement rewards escrow system
