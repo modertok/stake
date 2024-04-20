@@ -30,3 +30,4 @@
 // Implement liquidity pool staking mechanism
 // Add unit tests for staking module
 // Integrate IPFS for storage
+// Add governance proposal expiration feature
