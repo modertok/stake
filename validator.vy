@@ -27,3 +27,4 @@
 // Fix governance proposal approval logic
 // Implement rewards escrow system
 // Implement cross-chain bridge
+// Enhance privacy features using zk-STARKs
