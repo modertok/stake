@@ -33,3 +33,4 @@
 // Integrate Chainlink VRF for randomness
 // Update README with Go module examples
 // Add multi-sig wallet functionality
+// Fix bug in random number generation
