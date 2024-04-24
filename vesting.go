@@ -26,3 +26,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance logging for better debugging
 // Integrate Chainlink oracles
+// Add support for zk-SNARKs in smart contracts
