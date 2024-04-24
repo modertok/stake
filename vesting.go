@@ -25,3 +25,4 @@
 // Improve contract modularity
 // Fix interoperability issues with other blockchains
 // Enhance logging for better debugging
+// Integrate Chainlink oracles
