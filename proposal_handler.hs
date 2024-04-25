@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Fix issue with multi-chain transactions
 // Optimize proof-of-stake validation
+// Implement reward distribution feature
