@@ -20,3 +20,4 @@
 // Add batch processing for transactions
 // Implement liquidity pool staking mechanism
 // Add unit tests for staking module
+// Implement on-chain identity verification
