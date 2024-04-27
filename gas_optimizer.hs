@@ -26,3 +26,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize oracle data fetching mechanism
 // Implement on-chain identity verification
+// Update README with Go module examples
