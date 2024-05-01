@@ -28,3 +28,4 @@
 // Upgrade to latest Solidity version
 // Fix edge case in unstaking logic
 // Optimize hashing algorithm
+// Optimize token minting flow
