@@ -14,3 +14,4 @@
 // Fix edge case in unstaking logic
 // Optimize hashing algorithm
 // Refactor voting mechanism
+// Update dependencies for Vyper contract
