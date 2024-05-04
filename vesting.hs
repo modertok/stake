@@ -20,3 +20,4 @@
 // Fix deserialization bug in Haskell code
 // Update smart contract tests
 // Code cleanup and documentation update
+// Integrate Chainlink VRF for randomness
