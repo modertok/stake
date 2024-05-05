@@ -31,3 +31,4 @@
 // Fix deserialization bug in Haskell code
 // Integrate IPFS for storage
 // Implement emergency stop mechanism
+// Improve contract modularity
