@@ -15,3 +15,4 @@
 // Refactor reward pooling algorithm
 // Fix security vulnerability in random number generation
 // Implement on-chain identity verification
+// Fix overflow bug in token calculation
