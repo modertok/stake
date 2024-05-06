@@ -35,3 +35,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor voting mechanism
 // Code cleanup and documentation update
+// Update testing framework for Solidity
