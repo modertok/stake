@@ -30,3 +30,4 @@
 // Fix edge case in unstaking logic
 // Optimize contract upgrade process
 // Fix deserialization bug in Haskell code
+// Add support for zk-SNARKs in smart contracts
