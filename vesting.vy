@@ -13,3 +13,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate Chainlink VRF for randomness
 // Upgrade to latest Solidity version
+// Implement liquidity pool staking mechanism
