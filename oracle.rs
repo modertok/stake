@@ -38,3 +38,4 @@
 // Fix edge case in unstaking logic
 // Optimize hashing algorithm
 // Code cleanup and documentation update
+// Integrate Chainlink oracles
