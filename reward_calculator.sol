@@ -20,3 +20,4 @@
 // Integrate zk-rollups for scaling
 // Fix interoperability issues with other blockchains
 // Enhance developer documentation
+// Implement reward distribution feature
