@@ -21,3 +21,4 @@
 // Update smart contract tests
 // Code cleanup and documentation update
 // Integrate Chainlink VRF for randomness
+// Add new RPC endpoint
