@@ -14,3 +14,4 @@
 // Enhance contract initialization process
 // Update smart contract tests
 // Fix bug in random number generation
+// Add new feature: on-chain governance
