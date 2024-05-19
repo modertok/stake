@@ -39,3 +39,4 @@
 // Update dependencies for Vyper contract
 // Enhance contract initialization process
 // Fix security vulnerability in random number generation
+// Fix governance proposal approval logic
