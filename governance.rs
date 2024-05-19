@@ -15,3 +15,4 @@
 // Update smart contract tests
 // Fix bug in random number generation
 // Add new feature: on-chain governance
+// Improve error handling in transaction flow
