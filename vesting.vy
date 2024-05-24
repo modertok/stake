@@ -14,3 +14,4 @@
 // Integrate Chainlink VRF for randomness
 // Upgrade to latest Solidity version
 // Implement liquidity pool staking mechanism
+// Integrate IPFS for storage
