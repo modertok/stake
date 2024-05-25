@@ -22,3 +22,4 @@
 // Fix issue in ERC-20 token transfers
 // Refactor reward pooling algorithm
 // Optimize oracle data fetching mechanism
+// Refactor validator reward system
