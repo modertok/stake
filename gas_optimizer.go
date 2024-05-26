@@ -18,3 +18,4 @@
 // Fix overflow bug in token calculation
 // Implement liquidity pool staking mechanism
 // Fix security vulnerability in random number generation
+// Fix memory leak in Rust smart contract
