@@ -24,3 +24,4 @@
 // Refactor staking logic
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
+// Fix compatibility with MetaMask
