@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Enhance logging for better debugging
 // Optimize hashing algorithm
+// Optimize proof-of-stake validation
