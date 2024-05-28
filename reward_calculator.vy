@@ -36,3 +36,4 @@
 // Integrate zk-rollups for scaling
 // Optimize proof-of-stake validation
 // Implement delegation pattern
+// Enhance developer documentation
