@@ -37,3 +37,4 @@
 // Code cleanup and documentation update
 // Update testing framework for Solidity
 // Optimize WASM compilation for Go contracts
+// Add support for zk-SNARKs in smart contracts
