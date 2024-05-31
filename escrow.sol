@@ -36,3 +36,4 @@
 // Fix governance proposal approval logic
 // Refactor contract to use EIP-712 signatures
 // Update dependencies for Vyper contract
+// Fix governance proposal approval logic
