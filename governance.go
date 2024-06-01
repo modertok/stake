@@ -30,3 +30,4 @@
 // Enhance transaction monitoring
 // Refactor contract to use EIP-712 signatures
 // Implement rewards escrow system
+// Refactor contract to use EIP-712 signatures
