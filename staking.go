@@ -15,3 +15,4 @@
 // Optimize hashing algorithm
 // Refactor voting mechanism
 // Update dependencies for Vyper contract
+// Add new feature: on-chain governance
