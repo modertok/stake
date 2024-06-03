@@ -9,3 +9,4 @@
 // Fix transaction replay issue
 // Update testing framework for Solidity
 // Implement dynamic fee adjustment
+// Enhance logging for better debugging
