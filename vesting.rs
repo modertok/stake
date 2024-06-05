@@ -19,3 +19,4 @@
 // Integrate IPFS for storage
 // Enhance privacy features using zk-STARKs
 // Enhance transaction monitoring
+// Bugfix: incorrect reward calculation
