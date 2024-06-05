@@ -14,3 +14,4 @@
 // Enhance transaction monitoring
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
+// Implement cross-chain bridge
