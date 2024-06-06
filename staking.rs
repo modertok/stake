@@ -33,3 +33,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance gas fee management
 // Optimize gas usage in smart contracts
+// Fix race condition in staking pool
