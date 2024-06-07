@@ -36,3 +36,4 @@
 // Add support for ERC-1155 tokens
 // Upgrade to latest Solidity version
 // Add governance proposal expiration feature
+// Bugfix: incorrect reward calculation
