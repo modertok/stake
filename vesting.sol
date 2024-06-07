@@ -42,3 +42,4 @@
 // Fix governance proposal approval logic
 // Optimize contract upgrade process
 // Implement on-chain identity verification
+// Add fallback mechanism in Solidity contract
