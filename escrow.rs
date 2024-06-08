@@ -8,3 +8,4 @@
 // Update smart contract tests
 // Implement adaptive block size for Ethereum
 // Implement dynamic fee adjustment
+// Fix issue in ERC-20 token transfers
