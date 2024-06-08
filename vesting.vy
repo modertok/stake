@@ -15,3 +15,4 @@
 // Upgrade to latest Solidity version
 // Implement liquidity pool staking mechanism
 // Integrate IPFS for storage
+// Fix compatibility with MetaMask
