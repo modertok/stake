@@ -16,3 +16,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate IPFS for storage
 // Fix compatibility with MetaMask
+// Add batch processing for transactions
