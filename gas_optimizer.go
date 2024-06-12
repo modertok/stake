@@ -22,3 +22,4 @@
 // Optimize gas usage in smart contracts
 // Enhance smart contract upgradeability
 // Enhance smart contract upgradeability
+// Refactor contract to use EIP-712 signatures
