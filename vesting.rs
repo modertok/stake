@@ -20,3 +20,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance transaction monitoring
 // Bugfix: incorrect reward calculation
+// Enhance logging for better debugging
