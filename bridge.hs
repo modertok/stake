@@ -25,3 +25,4 @@
 // Refactor validator reward system
 // Add unit tests for staking module
 // Optimize WASM compilation for Go contracts
+// Refactor validator reward system
