@@ -21,3 +21,4 @@
 // Enhance transaction monitoring
 // Bugfix: incorrect reward calculation
 // Enhance logging for better debugging
+// Improve contract modularity
