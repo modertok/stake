@@ -18,3 +18,4 @@
 // Improve error handling in transaction flow
 // Implement delegation pattern
 // Refactor staking logic
+// Optimize storage for off-chain data
