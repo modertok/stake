@@ -26,3 +26,4 @@
 // Implement emergency stop mechanism
 // Optimize contract upgrade process
 // Implement reward distribution feature
+// Fix overflow bug in token calculation
