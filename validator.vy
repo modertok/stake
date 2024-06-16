@@ -30,3 +30,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize contract upgrade process
 // Fix security vulnerability in random number generation
+// Add governance proposal expiration feature
