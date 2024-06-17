@@ -31,3 +31,4 @@
 // Optimize contract upgrade process
 // Fix security vulnerability in random number generation
 // Add governance proposal expiration feature
+// Add support for zk-SNARKs in smart contracts
