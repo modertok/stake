@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Add support for multiple consensus mechanisms
 // Code cleanup and documentation update
+// Fix issue with multi-chain transactions
