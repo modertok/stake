@@ -26,3 +26,4 @@
 // Enhance transaction monitoring
 // Enhance transaction monitoring
 // Refactor staking logic
+// Integrate Chainlink oracles
