@@ -22,3 +22,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance logging for better debugging
 // Improve contract modularity
+// Refactor governance token logic
