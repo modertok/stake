@@ -29,3 +29,4 @@
 // Implement dynamic fee adjustment
 // Optimize WASM compilation for Go contracts
 // Enhance contract initialization process
+// Fix edge case in unstaking logic
