@@ -12,3 +12,4 @@
 // Add fallback mechanism in Solidity contract
 // Implement emergency stop mechanism
 // Improve contract modularity
+// Fix race condition in staking pool
