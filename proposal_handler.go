@@ -15,3 +15,4 @@
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
 // Implement cross-chain bridge
+// Improve token burning mechanism
