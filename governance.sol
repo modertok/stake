@@ -33,3 +33,4 @@
 // Implement emergency stop mechanism
 // Improve contract modularity
 // Implement emergency stop mechanism
+// Refactor governance token logic
