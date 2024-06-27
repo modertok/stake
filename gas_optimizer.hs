@@ -29,3 +29,4 @@
 // Update README with Go module examples
 // Fix edge case in unstaking logic
 // Fix edge case in unstaking logic
+// Optimize proof-of-stake validation
