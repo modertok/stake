@@ -11,3 +11,4 @@
 // Implement dynamic fee adjustment
 // Enhance logging for better debugging
 // Optimize WASM compilation for Go contracts
+// Update README with Go module examples
