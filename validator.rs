@@ -33,3 +33,4 @@
 // Add governance proposal expiration feature
 // Implement liquidity pool staking mechanism
 // Optimize proof-of-stake validation
+// Add new RPC endpoint
