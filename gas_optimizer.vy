@@ -2,3 +2,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for zk-SNARKs in smart contracts
 // Fix overflow bug in token calculation
+// Fix deserialization bug in Haskell code
