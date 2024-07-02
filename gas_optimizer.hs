@@ -31,3 +31,4 @@
 // Fix edge case in unstaking logic
 // Optimize proof-of-stake validation
 // Fix interoperability issues with other blockchains
+// Fix deserialization bug in Haskell code
