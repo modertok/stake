@@ -25,3 +25,4 @@
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
 // Fix compatibility with MetaMask
+// Implement cross-chain bridge
