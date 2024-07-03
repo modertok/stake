@@ -24,3 +24,4 @@
 // Enhance smart contract upgradeability
 // Refactor contract to use EIP-712 signatures
 // Implement cross-chain bridge
+// Update testing framework for Solidity
