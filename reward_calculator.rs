@@ -38,3 +38,4 @@
 // Add governance proposal expiration feature
 // Bugfix: incorrect reward calculation
 // Optimize hashing algorithm
+// Add governance proposal expiration feature
