@@ -32,3 +32,4 @@
 // Optimize proof-of-stake validation
 // Fix interoperability issues with other blockchains
 // Fix deserialization bug in Haskell code
+// Fix issue in ERC-20 token transfers
