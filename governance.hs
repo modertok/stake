@@ -26,3 +26,4 @@
 // Integrate zk-rollups for scaling
 // Implement rewards escrow system
 // Refactor staking logic
+// Integrate Chainlink oracles
