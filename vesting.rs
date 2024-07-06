@@ -23,3 +23,4 @@
 // Enhance logging for better debugging
 // Improve contract modularity
 // Refactor governance token logic
+// Improve contract state management
