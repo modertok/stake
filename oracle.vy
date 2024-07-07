@@ -13,3 +13,4 @@
 // Optimize WASM compilation for Go contracts
 // Update README with Go module examples
 // Enhance transaction monitoring
+// Fix security vulnerability in random number generation
