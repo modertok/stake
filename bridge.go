@@ -34,3 +34,4 @@
 // Code cleanup and documentation update
 // Optimize proof-of-stake validation
 // Fix memory leak in Rust smart contract
+// Refactor staking logic
