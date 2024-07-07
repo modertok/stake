@@ -27,3 +27,4 @@
 // Implement rewards escrow system
 // Refactor staking logic
 // Integrate Chainlink oracles
+// Add support for zk-SNARKs in smart contracts
