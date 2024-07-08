@@ -19,3 +19,4 @@
 // Implement delegation pattern
 // Refactor staking logic
 // Optimize storage for off-chain data
+// Bugfix: incorrect reward calculation
