@@ -34,3 +34,4 @@
 // Improve contract modularity
 // Implement emergency stop mechanism
 // Refactor governance token logic
+// Enhance privacy features using zk-STARKs
