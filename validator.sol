@@ -26,3 +26,4 @@
 // Implement delegation pattern
 // Fix compatibility with MetaMask
 // Implement cross-chain bridge
+// Optimize proof-of-stake validation
