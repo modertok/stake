@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Add multi-sig wallet functionality
 // Add support for multiple consensus mechanisms
+// Fix type mismatch in Haskell smart contract
