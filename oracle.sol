@@ -31,3 +31,4 @@
 // Enhance contract initialization process
 // Fix edge case in unstaking logic
 // Implement dynamic fee adjustment
+// Fix race condition in staking pool
