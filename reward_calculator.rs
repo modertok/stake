@@ -39,3 +39,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize hashing algorithm
 // Add governance proposal expiration feature
+// Refactor staking logic
