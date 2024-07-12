@@ -28,3 +28,4 @@
 // Implement reward distribution feature
 // Fix overflow bug in token calculation
 // Enhance contract initialization process
+// Refactor validator reward system
