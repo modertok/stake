@@ -27,3 +27,4 @@
 // Fix compatibility with MetaMask
 // Implement cross-chain bridge
 // Optimize proof-of-stake validation
+// Refactor incentive structure in DeFi protocol
