@@ -22,3 +22,4 @@
 // Bugfix: incorrect reward calculation
 // Fix bug in random number generation
 // Integrate Chainlink oracles
+// Upgrade to latest Solidity version
