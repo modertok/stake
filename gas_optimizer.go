@@ -25,3 +25,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement cross-chain bridge
 // Update testing framework for Solidity
+// Fix overflow bug in token calculation
