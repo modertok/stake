@@ -24,3 +24,4 @@
 // Enhance test coverage for Rust module
 // Implement delegation pattern
 // Update testing framework for Solidity
+// Integrate IPFS for storage
