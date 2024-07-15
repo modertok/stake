@@ -38,3 +38,4 @@
 // Update dependencies for Vyper contract
 // Fix governance proposal approval logic
 // Optimize gas usage in smart contracts
+// Add governance proposal expiration feature
