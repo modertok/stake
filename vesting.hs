@@ -27,3 +27,4 @@
 // Update testing framework for Solidity
 // Fix deserialization bug in Haskell code
 // Enhance security checks
+// Fix overflow bug in token calculation
