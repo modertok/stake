@@ -34,3 +34,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance test coverage for Rust module
 // Implement rewards escrow system
+// Improve token burning mechanism
