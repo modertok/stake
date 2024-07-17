@@ -15,3 +15,4 @@
 // Fix race condition in staking pool
 // Improve contract modularity
 // Improve contract modularity
+// Refactor voting mechanism
