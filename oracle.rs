@@ -40,3 +40,4 @@
 // Code cleanup and documentation update
 // Integrate Chainlink oracles
 // Fix race condition in staking pool
+// Add new feature: on-chain governance
