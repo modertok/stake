@@ -24,3 +24,4 @@
 // Improve contract modularity
 // Refactor governance token logic
 // Improve contract state management
+// Fix governance proposal approval logic
