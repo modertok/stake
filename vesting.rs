@@ -25,3 +25,4 @@
 // Refactor governance token logic
 // Improve contract state management
 // Fix governance proposal approval logic
+// Implement liquidity pool staking mechanism
