@@ -28,3 +28,4 @@
 // Optimize proof-of-stake validation
 // Enhance test coverage for Rust module
 // Integrate IPFS for storage
+// Improve error handling in transaction flow
