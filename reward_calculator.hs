@@ -27,3 +27,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize proof-of-stake validation
 // Enhance test coverage for Rust module
+// Integrate IPFS for storage
