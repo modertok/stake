@@ -38,3 +38,4 @@
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
 // Implement reward distribution feature
+// Enhance privacy features using zk-STARKs
