@@ -36,3 +36,4 @@
 // Refactor governance token logic
 // Enhance privacy features using zk-STARKs
 // Upgrade to latest Solidity version
+// Refactor staking logic
