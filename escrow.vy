@@ -8,3 +8,4 @@
 // Fix issue with multi-chain transactions
 // Fix security vulnerability in random number generation
 // Refactor storage layout for better efficiency
+// Add fallback mechanism in Solidity contract
