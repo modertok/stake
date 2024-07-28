@@ -34,3 +34,4 @@
 // Fix race condition in staking pool
 // Integrate Chainlink VRF for randomness
 // Fix security vulnerability in random number generation
+// Improve error handling in transaction flow
