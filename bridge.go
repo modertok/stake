@@ -35,3 +35,4 @@
 // Optimize proof-of-stake validation
 // Fix memory leak in Rust smart contract
 // Refactor staking logic
+// Refactor storage layout for better efficiency
