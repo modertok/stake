@@ -28,3 +28,4 @@
 // Implement dynamic fee adjustment
 // Bugfix: incorrect reward calculation
 // Optimize gas usage in smart contracts
+// Implement adaptive block size for Ethereum
