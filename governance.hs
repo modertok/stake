@@ -30,3 +30,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Reduce gas cost in minting logic
 // Implement adaptive block size for Ethereum
+// Refactor reward pooling algorithm
