@@ -41,3 +41,4 @@
 // Add governance proposal expiration feature
 // Refactor staking logic
 // Add slashing mechanism for malicious actors
+// Add batch processing for transactions
