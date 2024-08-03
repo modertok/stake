@@ -26,3 +26,4 @@
 // Implement cross-chain bridge
 // Update testing framework for Solidity
 // Fix overflow bug in token calculation
+// Fix memory leak in Rust smart contract
