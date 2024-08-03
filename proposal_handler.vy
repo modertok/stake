@@ -34,3 +34,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance contract initialization process
 // Fix issue in token vesting logic
+// Fix type mismatch in Haskell smart contract
