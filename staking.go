@@ -17,3 +17,4 @@
 // Update dependencies for Vyper contract
 // Add new feature: on-chain governance
 // Add unit tests for staking module
+// Enhance security checks
