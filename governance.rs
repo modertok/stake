@@ -24,3 +24,4 @@
 // Integrate Chainlink oracles
 // Upgrade to latest Solidity version
 // Code cleanup and documentation update
+// Refactor staking logic
