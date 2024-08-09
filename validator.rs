@@ -35,3 +35,4 @@
 // Optimize proof-of-stake validation
 // Add new RPC endpoint
 // Optimize proof-of-stake validation
+// Implement liquidity pool staking mechanism
