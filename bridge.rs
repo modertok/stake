@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Optimize hashing algorithm
 // Add support for ERC-1155 tokens
+// Improve error handling in transaction flow
