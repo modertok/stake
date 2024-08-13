@@ -30,3 +30,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add governance proposal expiration feature
 // Fix memory leak in Rust smart contract
+// Add governance proposal expiration feature
