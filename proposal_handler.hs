@@ -12,3 +12,4 @@
 // Update dependencies for Vyper contract
 // Enhance transaction monitoring
 // Implement delegation pattern
+// Bugfix: incorrect reward calculation
