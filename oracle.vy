@@ -18,3 +18,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve API rate limiting
 // Fix issue with multi-chain transactions
+// Implement on-chain identity verification
