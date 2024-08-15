@@ -38,3 +38,4 @@
 // Improve API rate limiting
 // Add batch processing for transactions
 // Upgrade to latest Solidity version
+// Improve error handling in transaction flow
