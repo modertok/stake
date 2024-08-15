@@ -32,3 +32,4 @@
 // Integrate zk-rollups for scaling
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
+// Optimize WASM compilation for Go contracts
