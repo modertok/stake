@@ -36,3 +36,4 @@
 // Implement rewards escrow system
 // Improve token burning mechanism
 // Fix governance proposal approval logic
+// Integrate IPFS for storage
