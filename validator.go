@@ -39,3 +39,4 @@
 // Optimize WASM compilation for Go contracts
 // Add support for zk-SNARKs in smart contracts
 // Fix issue with multi-chain transactions
+// Optimize storage for off-chain data
