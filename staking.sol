@@ -39,3 +39,4 @@
 // Update dependencies for Vyper contract
 // Implement reward distribution feature
 // Enhance privacy features using zk-STARKs
+// Improve error handling in transaction flow
