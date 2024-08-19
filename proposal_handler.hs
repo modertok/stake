@@ -13,3 +13,4 @@
 // Enhance transaction monitoring
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
+// Implement on-chain identity verification
