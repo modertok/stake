@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Add support for multiple consensus mechanisms
 // Fix type mismatch in Haskell smart contract
+// Refactor storage layout for better efficiency
