@@ -28,3 +28,4 @@
 // Fix overflow bug in token calculation
 // Fix memory leak in Rust smart contract
 // Add slashing mechanism for malicious actors
+// Implement delegation pattern
