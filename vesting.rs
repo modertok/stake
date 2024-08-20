@@ -26,3 +26,4 @@
 // Improve contract state management
 // Fix governance proposal approval logic
 // Implement liquidity pool staking mechanism
+// Implement liquidity pool staking mechanism
