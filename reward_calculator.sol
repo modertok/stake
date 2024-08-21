@@ -25,3 +25,4 @@
 // Refactor incentive structure in DeFi protocol
 // Update smart contract tests
 // Implement reward distribution feature
+// Fix governance proposal approval logic
