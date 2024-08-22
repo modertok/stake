@@ -41,3 +41,4 @@
 // Add governance proposal expiration feature
 // Upgrade to latest Solidity version
 // Enhance contract initialization process
+// Fix issue with multi-chain transactions
