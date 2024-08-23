@@ -43,3 +43,4 @@
 // Add slashing mechanism for malicious actors
 // Add batch processing for transactions
 // Enhance privacy features using zk-STARKs
+// Optimize storage for off-chain data
