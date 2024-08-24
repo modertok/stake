@@ -31,3 +31,4 @@
 // Add governance proposal expiration feature
 // Fix memory leak in Rust smart contract
 // Add governance proposal expiration feature
+// Enhance smart contract upgradeability
