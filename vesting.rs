@@ -27,3 +27,4 @@
 // Fix governance proposal approval logic
 // Implement liquidity pool staking mechanism
 // Implement liquidity pool staking mechanism
+// Fix memory leak in Rust smart contract
