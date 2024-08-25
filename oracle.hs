@@ -30,3 +30,4 @@
 // Enhance developer documentation
 // Improve error handling in transaction flow
 // Improve gas estimation for transactions
+// Fix compatibility with MetaMask
