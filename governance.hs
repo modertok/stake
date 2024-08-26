@@ -31,3 +31,4 @@
 // Reduce gas cost in minting logic
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
+// Improve error handling in transaction flow
