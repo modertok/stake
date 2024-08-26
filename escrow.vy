@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Add fallback mechanism in Solidity contract
 // Fix security vulnerability in random number generation
+// Fix bug in random number generation
