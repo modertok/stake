@@ -39,3 +39,4 @@
 // Update dependencies for Vyper contract
 // Upgrade to latest Solidity version
 // Implement liquidity pool staking mechanism
+// Fix security vulnerability in random number generation
