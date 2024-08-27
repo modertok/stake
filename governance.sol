@@ -38,3 +38,4 @@
 // Upgrade to latest Solidity version
 // Refactor staking logic
 // Fix compatibility with MetaMask
+// Add support for ERC-1155 tokens
