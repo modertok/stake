@@ -29,3 +29,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor staking logic
 // Fix overflow bug in token calculation
+// Refactor incentive structure in DeFi protocol
