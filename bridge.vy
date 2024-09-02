@@ -29,3 +29,4 @@
 // Integrate Chainlink oracles
 // Fix bug in random number generation
 // Integrate Chainlink oracles
+// Add slashing mechanism for malicious actors
