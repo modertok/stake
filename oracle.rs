@@ -42,3 +42,4 @@
 // Fix race condition in staking pool
 // Add new feature: on-chain governance
 // Refactor governance token logic
+// Fix transaction replay issue
