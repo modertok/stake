@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Implement delegation pattern
 // Add support for ERC-721A tokens
+// Fix compatibility with MetaMask
