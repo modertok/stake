@@ -30,3 +30,4 @@
 // Fix bug in random number generation
 // Integrate Chainlink oracles
 // Add slashing mechanism for malicious actors
+// Fix issue with multi-chain transactions
