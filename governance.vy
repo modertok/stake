@@ -35,3 +35,4 @@
 // Enhance test coverage for Rust module
 // Optimize hashing algorithm
 // Code cleanup and documentation update
+// Add new RPC endpoint
