@@ -38,3 +38,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor contract to use EIP-712 signatures
 // Add support for zk-SNARKs in smart contracts
+// Fix compatibility with MetaMask
