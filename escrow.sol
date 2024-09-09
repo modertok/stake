@@ -43,3 +43,4 @@
 // Enhance contract initialization process
 // Fix issue with multi-chain transactions
 // Enhance test coverage for Rust module
+// Update README with Go module examples
