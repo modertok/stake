@@ -34,3 +34,4 @@
 // Fix memory leak in Rust smart contract
 // Improve contract modularity
 // Refactor voting mechanism
+// Add support for ERC-721A tokens
