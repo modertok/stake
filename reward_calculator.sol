@@ -26,3 +26,4 @@
 // Update smart contract tests
 // Implement reward distribution feature
 // Fix governance proposal approval logic
+// Add support for multiple consensus mechanisms
