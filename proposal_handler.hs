@@ -15,3 +15,4 @@
 // Bugfix: incorrect reward calculation
 // Implement on-chain identity verification
 // Implement adaptive block size for Ethereum
+// Implement adaptive block size for Ethereum
