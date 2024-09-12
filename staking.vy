@@ -14,3 +14,4 @@
 // Fix compatibility with MetaMask
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
+// Add batch processing for transactions
