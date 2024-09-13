@@ -42,3 +42,4 @@
 // Optimize storage for off-chain data
 // Optimize contract upgrade process
 // Refactor voting mechanism
+// Fix race condition in staking pool
