@@ -35,3 +35,4 @@
 // Improve contract modularity
 // Refactor voting mechanism
 // Add support for ERC-721A tokens
+// Add new RPC endpoint
