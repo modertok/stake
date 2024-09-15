@@ -31,3 +31,4 @@
 // Improve error handling in transaction flow
 // Improve gas estimation for transactions
 // Fix compatibility with MetaMask
+// Fix memory leak in Rust smart contract
