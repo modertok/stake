@@ -33,3 +33,4 @@
 // Fix issue with multi-chain transactions
 // Refactor contract to use EIP-712 signatures
 // Improve contract modularity
+// Enhance transaction monitoring
