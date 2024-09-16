@@ -30,3 +30,4 @@
 // Fix overflow bug in token calculation
 // Optimize contract upgrade process
 // Fix overflow bug in token calculation
+// Refactor reward pooling algorithm
