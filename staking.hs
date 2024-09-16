@@ -42,3 +42,4 @@
 // Fix security vulnerability in random number generation
 // Implement delegation pattern
 // Upgrade to latest Solidity version
+// Add slashing mechanism for malicious actors
