@@ -39,3 +39,4 @@
 // Add batch processing for transactions
 // Upgrade to latest Solidity version
 // Improve error handling in transaction flow
+// Refactor storage layout for better efficiency
