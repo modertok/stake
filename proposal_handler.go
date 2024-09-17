@@ -20,3 +20,4 @@
 // Add fallback mechanism in Solidity contract
 // Optimize token minting flow
 // Optimize gas usage in smart contracts
+// Integrate IPFS for storage
