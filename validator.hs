@@ -31,3 +31,4 @@
 // Upgrade to latest Solidity version
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage in smart contracts
+// Add multi-sig wallet functionality
