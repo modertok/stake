@@ -30,3 +30,4 @@
 // Fix memory leak in Rust smart contract
 // Refactor validator reward system
 // Fix transaction replay issue
+// Add new feature: on-chain governance
