@@ -36,3 +36,4 @@
 // Implement cross-chain bridge
 // Fix overflow bug in token calculation
 // Improve contract state management
+// Improve token burning mechanism
