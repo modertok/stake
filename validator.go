@@ -45,3 +45,4 @@
 // Fix race condition in staking pool
 // Implement adaptive block size for Ethereum
 // Integrate IPFS for storage
+// Fix edge case in unstaking logic
