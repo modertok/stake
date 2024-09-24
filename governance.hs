@@ -33,3 +33,4 @@
 // Refactor reward pooling algorithm
 // Improve error handling in transaction flow
 // Optimize token minting flow
+// Improve token burning mechanism
