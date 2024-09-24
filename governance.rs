@@ -30,3 +30,4 @@
 // Fix deserialization bug in Haskell code
 // Fix overflow bug in token calculation
 // Optimize contract upgrade process
+// Enhance gas fee management
