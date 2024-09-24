@@ -32,3 +32,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage in smart contracts
 // Add multi-sig wallet functionality
+// Implement on-chain identity verification
