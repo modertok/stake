@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Integrate Chainlink VRF for randomness
 // Enhance developer documentation
+// Add support for ERC-721A tokens
