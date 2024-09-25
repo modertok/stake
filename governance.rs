@@ -31,3 +31,4 @@
 // Fix overflow bug in token calculation
 // Optimize contract upgrade process
 // Enhance gas fee management
+// Add batch processing for transactions
