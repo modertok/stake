@@ -28,3 +28,4 @@
 // Fix governance proposal approval logic
 // Add support for multiple consensus mechanisms
 // Update testing framework for Solidity
+// Add slashing mechanism for malicious actors
