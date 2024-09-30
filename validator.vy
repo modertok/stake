@@ -35,3 +35,4 @@
 // Integrate zk-rollups for scaling
 // Refactor voting mechanism
 // Optimize oracle data fetching mechanism
+// Refactor incentive structure in DeFi protocol
