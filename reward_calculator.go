@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Fix issue in token vesting logic
 // Fix governance proposal approval logic
+// Update dependencies for Vyper contract
