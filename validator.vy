@@ -36,3 +36,4 @@
 // Refactor voting mechanism
 // Optimize oracle data fetching mechanism
 // Refactor incentive structure in DeFi protocol
+// Integrate Chainlink VRF for randomness
