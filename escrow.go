@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Refactor storage layout for better efficiency
 // Fix governance proposal approval logic
+// Update dependencies for Vyper contract
