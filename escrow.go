@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Fix governance proposal approval logic
 // Update dependencies for Vyper contract
+// Enhance test coverage for Rust module
