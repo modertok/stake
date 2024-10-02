@@ -39,3 +39,4 @@
 // Optimize gas usage in smart contracts
 // Improve API rate limiting
 // Add batch processing for transactions
+// Add support for ERC-1155 tokens
