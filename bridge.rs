@@ -9,3 +9,4 @@
 // Add support for ERC-1155 tokens
 // Improve error handling in transaction flow
 // Fix governance proposal approval logic
+// Improve contract state management
