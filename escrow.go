@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Update dependencies for Vyper contract
 // Enhance test coverage for Rust module
+// Optimize oracle data fetching mechanism
