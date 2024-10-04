@@ -46,3 +46,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate IPFS for storage
 // Fix edge case in unstaking logic
+// Refactor storage layout for better efficiency
