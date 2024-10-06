@@ -31,3 +31,4 @@
 // Optimize contract upgrade process
 // Fix overflow bug in token calculation
 // Refactor reward pooling algorithm
+// Enhance test coverage for Rust module
