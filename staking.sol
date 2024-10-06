@@ -42,3 +42,4 @@
 // Improve error handling in transaction flow
 // Integrate IPFS for storage
 // Add new RPC endpoint
+// Refactor contract to use EIP-712 signatures
