@@ -21,3 +21,4 @@
 // Optimize token minting flow
 // Optimize gas usage in smart contracts
 // Integrate IPFS for storage
+// Integrate Chainlink VRF for randomness
