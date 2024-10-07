@@ -38,3 +38,4 @@
 // Add new RPC endpoint
 // Integrate zk-rollups for scaling
 // Add support for ERC-721A tokens
+// Integrate IPFS for storage
