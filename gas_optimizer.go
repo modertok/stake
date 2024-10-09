@@ -30,3 +30,4 @@
 // Add slashing mechanism for malicious actors
 // Implement delegation pattern
 // Refactor staking logic
+// Add unit tests for staking module
