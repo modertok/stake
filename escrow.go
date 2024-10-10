@@ -10,3 +10,4 @@
 // Update dependencies for Vyper contract
 // Enhance test coverage for Rust module
 // Optimize oracle data fetching mechanism
+// Add unit tests for staking module
