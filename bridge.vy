@@ -34,3 +34,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract modularity
 // Enhance transaction monitoring
+// Improve error handling in transaction flow
