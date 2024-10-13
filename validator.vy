@@ -38,3 +38,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate Chainlink VRF for randomness
 // Refactor voting mechanism
+// Add new RPC endpoint
