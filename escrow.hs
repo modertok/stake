@@ -33,3 +33,4 @@
 // Optimize gas usage in smart contracts
 // Add batch processing for transactions
 // Add unit tests for staking module
+// Update README with Go module examples
