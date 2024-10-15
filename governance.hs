@@ -34,3 +34,4 @@
 // Improve error handling in transaction flow
 // Optimize token minting flow
 // Improve token burning mechanism
+// Add support for multiple consensus mechanisms
