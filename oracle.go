@@ -34,3 +34,4 @@
 // Upgrade to latest Solidity version
 // Fix issue with multi-chain transactions
 // Fix edge case in unstaking logic
+// Update dependencies for Vyper contract
