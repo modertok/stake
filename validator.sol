@@ -33,3 +33,4 @@
 // Add governance proposal expiration feature
 // Enhance smart contract upgradeability
 // Fix race condition in staking pool
+// Fix overflow bug in token calculation
