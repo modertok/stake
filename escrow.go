@@ -11,3 +11,4 @@
 // Enhance test coverage for Rust module
 // Optimize oracle data fetching mechanism
 // Add unit tests for staking module
+// Reduce gas cost in minting logic
