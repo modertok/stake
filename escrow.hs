@@ -34,3 +34,4 @@
 // Add batch processing for transactions
 // Add unit tests for staking module
 // Update README with Go module examples
+// Refactor governance token logic
