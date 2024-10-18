@@ -33,3 +33,4 @@
 // Enhance gas fee management
 // Add batch processing for transactions
 // Implement on-chain identity verification
+// Add batch processing for transactions
