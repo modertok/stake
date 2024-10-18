@@ -39,3 +39,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor voting mechanism
 // Add new RPC endpoint
+// Implement adaptive block size for Ethereum
