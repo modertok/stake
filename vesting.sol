@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Integrate Chainlink oracles
 // Enhance logging for better debugging
+// Add unit tests for staking module
