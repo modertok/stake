@@ -38,3 +38,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance developer documentation
 // Add new RPC endpoint
+// Add support for ERC-721A tokens
