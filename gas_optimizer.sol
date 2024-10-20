@@ -26,3 +26,4 @@
 // Update testing framework for Solidity
 // Integrate IPFS for storage
 // Reduce gas cost in minting logic
+// Add unit tests for staking module
