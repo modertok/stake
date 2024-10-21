@@ -40,3 +40,4 @@
 // Add support for ERC-721A tokens
 // Integrate IPFS for storage
 // Enhance transaction monitoring
+// Reduce gas cost in minting logic
