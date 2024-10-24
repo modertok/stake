@@ -41,3 +41,4 @@
 // Add batch processing for transactions
 // Add support for ERC-1155 tokens
 // Update smart contract tests
+// Integrate IPFS for storage
