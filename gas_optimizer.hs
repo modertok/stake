@@ -39,3 +39,4 @@
 // Enhance developer documentation
 // Add new RPC endpoint
 // Add support for ERC-721A tokens
+// Fix compatibility with MetaMask
