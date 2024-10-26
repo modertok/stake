@@ -40,3 +40,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix compatibility with MetaMask
 // Add batch processing for transactions
+// Add slashing mechanism for malicious actors
