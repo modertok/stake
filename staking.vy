@@ -15,3 +15,4 @@
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
 // Add batch processing for transactions
+// Update README with Go module examples
