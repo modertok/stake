@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Implement emergency stop mechanism
 // Optimize gas usage in smart contracts
+// Fix race condition in staking pool
