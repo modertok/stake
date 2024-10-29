@@ -34,3 +34,4 @@
 // Add batch processing for transactions
 // Implement on-chain identity verification
 // Add batch processing for transactions
+// Add support for ERC-721A tokens
