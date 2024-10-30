@@ -14,3 +14,4 @@
 // Add batch processing for transactions
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
+// Integrate Chainlink VRF for randomness
