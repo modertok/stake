@@ -43,3 +43,4 @@
 // Fix issue in token vesting logic
 // Reduce gas cost in minting logic
 // Fix edge case in unstaking logic
+// Enhance privacy features using zk-STARKs
