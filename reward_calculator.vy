@@ -41,3 +41,4 @@
 // Optimize WASM compilation for Go contracts
 // Add governance proposal expiration feature
 // Enhance transaction monitoring
+// Bugfix: incorrect reward calculation
