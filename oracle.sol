@@ -39,3 +39,4 @@
 // Fix issue in token vesting logic
 // Fix race condition in staking pool
 // Fix race condition in staking pool
+// Fix overflow bug in token calculation
