@@ -44,3 +44,4 @@
 // Reduce gas cost in minting logic
 // Fix edge case in unstaking logic
 // Enhance privacy features using zk-STARKs
+// Add fallback mechanism in Solidity contract
