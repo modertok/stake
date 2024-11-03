@@ -12,3 +12,4 @@
 // Fix transaction replay issue
 // Improve contract state management
 // Refactor staking logic
+// Improve error handling in transaction flow
