@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles
 // Enhance logging for better debugging
 // Add unit tests for staking module
+// Enhance transaction monitoring
