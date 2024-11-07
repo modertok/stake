@@ -40,3 +40,4 @@
 // Fix race condition in staking pool
 // Fix race condition in staking pool
 // Fix overflow bug in token calculation
+// Integrate Chainlink VRF for randomness
