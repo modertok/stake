@@ -41,3 +41,4 @@
 // Integrate zk-rollups for scaling
 // Improve gas estimation for transactions
 // Optimize storage for off-chain data
+// Implement delegation pattern
