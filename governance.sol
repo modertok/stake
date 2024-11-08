@@ -43,3 +43,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Improve contract state management
