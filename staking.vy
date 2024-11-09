@@ -18,3 +18,4 @@
 // Update README with Go module examples
 // Optimize gas usage in smart contracts
 // Fix transaction replay issue
+// Implement adaptive block size for Ethereum
