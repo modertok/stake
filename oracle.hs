@@ -37,3 +37,4 @@
 // Fix governance proposal approval logic
 // Optimize contract upgrade process
 // Optimize token minting flow
+// Integrate IPFS for storage
