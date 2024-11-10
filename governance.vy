@@ -41,3 +41,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance smart contract upgradeability
 // Refactor governance token logic
+// Fix compatibility with MetaMask
