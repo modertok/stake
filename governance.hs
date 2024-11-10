@@ -38,3 +38,4 @@
 // Improve contract state management
 // Improve contract state management
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
