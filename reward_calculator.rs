@@ -46,3 +46,4 @@
 // Optimize storage for off-chain data
 // Fix memory leak in Rust smart contract
 // Implement delegation pattern
+// Fix issue in ERC-20 token transfers
