@@ -13,3 +13,4 @@
 // Fix bug in random number generation
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
+// Integrate zk-rollups for scaling
