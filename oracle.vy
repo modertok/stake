@@ -22,3 +22,4 @@
 // Fix memory leak in Rust smart contract
 // Enhance smart contract upgradeability
 // Integrate IPFS for storage
+// Add governance proposal expiration feature
