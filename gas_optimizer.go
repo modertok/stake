@@ -33,3 +33,4 @@
 // Add unit tests for staking module
 // Fix interoperability issues with other blockchains
 // Add unit tests for staking module
+// Implement on-chain identity verification
