@@ -35,3 +35,4 @@
 // Implement on-chain identity verification
 // Optimize token minting flow
 // Implement delegation pattern
+// Add batch processing for transactions
