@@ -23,3 +23,4 @@
 // Integrate IPFS for storage
 // Integrate Chainlink VRF for randomness
 // Enhance logging for better debugging
+// Improve contract modularity
