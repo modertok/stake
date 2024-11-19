@@ -42,3 +42,4 @@
 // Add batch processing for transactions
 // Add slashing mechanism for malicious actors
 // Optimize proof-of-stake validation
+// Fix governance proposal approval logic
