@@ -23,3 +23,4 @@
 // Enhance smart contract upgradeability
 // Integrate IPFS for storage
 // Add governance proposal expiration feature
+// Improve error handling in transaction flow
