@@ -35,3 +35,4 @@
 // Improve gas estimation for transactions
 // Implement cross-chain bridge
 // Refactor staking logic
+// Fix type mismatch in Haskell smart contract
