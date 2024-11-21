@@ -24,3 +24,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance logging for better debugging
 // Improve contract modularity
+// Optimize gas usage in smart contracts
