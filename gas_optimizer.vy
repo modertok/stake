@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance smart contract upgradeability
 // Improve contract state management
+// Add new feature: on-chain governance
