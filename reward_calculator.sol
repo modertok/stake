@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Improve error handling in transaction flow
 // Integrate Chainlink VRF for randomness
+// Optimize WASM compilation for Go contracts
