@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Update dependencies for Vyper contract
 // Add slashing mechanism for malicious actors
+// Fix type mismatch in Haskell smart contract
