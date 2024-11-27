@@ -45,3 +45,4 @@
 // Fix security vulnerability in random number generation
 // Refactor staking logic
 // Implement dynamic fee adjustment
+// Add support for ERC-721A tokens
