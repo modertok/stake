@@ -36,3 +36,4 @@
 // Implement cross-chain bridge
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
+// Improve error handling in transaction flow
