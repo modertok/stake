@@ -36,3 +36,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance gas fee management
 // Enhance developer documentation
+// Fix issue in token vesting logic
