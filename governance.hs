@@ -40,3 +40,4 @@
 // Fix transaction replay issue
 // Add multi-sig wallet functionality
 // Improve error handling in transaction flow
+// Refactor incentive structure in DeFi protocol
