@@ -47,3 +47,4 @@
 // Fix memory leak in Rust smart contract
 // Implement delegation pattern
 // Fix issue in ERC-20 token transfers
+// Fix type mismatch in Haskell smart contract
