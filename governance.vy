@@ -42,3 +42,4 @@
 // Enhance smart contract upgradeability
 // Refactor governance token logic
 // Fix compatibility with MetaMask
+// Add governance proposal expiration feature
