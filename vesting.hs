@@ -37,3 +37,4 @@
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
 // Improve error handling in transaction flow
+// Refactor storage layout for better efficiency
