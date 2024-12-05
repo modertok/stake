@@ -39,3 +39,4 @@
 // Improve token burning mechanism
 // Enhance contract initialization process
 // Fix issue in ERC-20 token transfers
+// Enhance privacy features using zk-STARKs
