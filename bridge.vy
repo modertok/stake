@@ -37,3 +37,4 @@
 // Improve error handling in transaction flow
 // Enhance contract initialization process
 // Enhance smart contract upgradeability
+// Fix race condition in staking pool
