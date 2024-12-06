@@ -38,3 +38,4 @@
 // Implement dynamic fee adjustment
 // Optimize contract upgrade process
 // Bugfix: incorrect reward calculation
+// Fix issue in ERC-20 token transfers
