@@ -52,3 +52,4 @@
 // Add multi-sig wallet functionality
 // Optimize gas usage in smart contracts
 // Fix issue in ERC-20 token transfers
+// Fix memory leak in Rust smart contract
