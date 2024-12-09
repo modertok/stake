@@ -14,3 +14,4 @@
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
 // Integrate zk-rollups for scaling
+// Add support for ERC-721A tokens
