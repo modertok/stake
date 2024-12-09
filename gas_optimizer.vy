@@ -7,3 +7,4 @@
 // Enhance smart contract upgradeability
 // Improve contract state management
 // Add new feature: on-chain governance
+// Refactor reward pooling algorithm
