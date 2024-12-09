@@ -36,3 +36,4 @@
 // Enhance logging for better debugging
 // Add support for zk-SNARKs in smart contracts
 // Improve gas estimation for transactions
+// Update README with Go module examples
