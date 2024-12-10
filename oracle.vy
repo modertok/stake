@@ -25,3 +25,4 @@
 // Add governance proposal expiration feature
 // Improve error handling in transaction flow
 // Improve token burning mechanism
+// Bugfix: incorrect reward calculation
