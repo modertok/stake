@@ -15,3 +15,4 @@
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
 // Integrate Chainlink VRF for randomness
+// Reduce gas cost in minting logic
