@@ -41,3 +41,4 @@
 // Integrate IPFS for storage
 // Enhance transaction monitoring
 // Reduce gas cost in minting logic
+// Fix compatibility with MetaMask
