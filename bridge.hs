@@ -38,3 +38,4 @@
 // Improve gas estimation for transactions
 // Update README with Go module examples
 // Refactor staking logic
+// Add batch processing for transactions
