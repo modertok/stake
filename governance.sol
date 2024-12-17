@@ -46,3 +46,4 @@
 // Improve contract state management
 // Fix issue in token vesting logic
 // Fix edge case in unstaking logic
+// Integrate Chainlink oracles
