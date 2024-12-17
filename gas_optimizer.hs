@@ -41,3 +41,4 @@
 // Add support for ERC-721A tokens
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
+// Add new RPC endpoint
