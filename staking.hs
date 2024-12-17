@@ -44,3 +44,4 @@
 // Upgrade to latest Solidity version
 // Add slashing mechanism for malicious actors
 // Enhance security checks
+// Fix compatibility with MetaMask
