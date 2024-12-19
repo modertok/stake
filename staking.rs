@@ -44,3 +44,4 @@
 // Optimize proof-of-stake validation
 // Fix governance proposal approval logic
 // Fix compatibility with MetaMask
+// Refactor staking logic
