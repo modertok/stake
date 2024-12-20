@@ -41,3 +41,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
+// Optimize WASM compilation for Go contracts
