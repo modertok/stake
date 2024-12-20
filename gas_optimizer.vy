@@ -9,3 +9,4 @@
 // Add new feature: on-chain governance
 // Refactor reward pooling algorithm
 // Fix memory leak in Rust smart contract
+// Fix overflow bug in token calculation
