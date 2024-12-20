@@ -40,3 +40,4 @@
 // Refactor staking logic
 // Add batch processing for transactions
 // Integrate Chainlink oracles
+// Integrate zk-rollups for scaling
