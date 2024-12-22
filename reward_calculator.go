@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Add slashing mechanism for malicious actors
 // Fix type mismatch in Haskell smart contract
+// Fix interoperability issues with other blockchains
