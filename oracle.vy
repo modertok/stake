@@ -27,3 +27,4 @@
 // Improve token burning mechanism
 // Bugfix: incorrect reward calculation
 // Refactor reward pooling algorithm
+// Refactor staking logic
