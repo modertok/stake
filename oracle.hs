@@ -39,3 +39,4 @@
 // Optimize token minting flow
 // Integrate IPFS for storage
 // Refactor incentive structure in DeFi protocol
+// Fix issue in token vesting logic
