@@ -39,3 +39,4 @@
 // Optimize contract upgrade process
 // Bugfix: incorrect reward calculation
 // Fix issue in ERC-20 token transfers
+// Enhance privacy features using zk-STARKs
