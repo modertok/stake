@@ -28,3 +28,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor reward pooling algorithm
 // Refactor staking logic
+// Reduce gas cost in minting logic
