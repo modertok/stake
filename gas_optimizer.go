@@ -37,3 +37,4 @@
 // Optimize storage for off-chain data
 // Fix edge case in unstaking logic
 // Add support for zk-SNARKs in smart contracts
+// Fix security vulnerability in random number generation
