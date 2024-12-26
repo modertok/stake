@@ -49,3 +49,4 @@
 // Enhance developer documentation
 // Add unit tests for staking module
 // Add new feature: on-chain governance
+// Fix compatibility with MetaMask
