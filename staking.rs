@@ -45,3 +45,4 @@
 // Fix governance proposal approval logic
 // Fix compatibility with MetaMask
 // Refactor staking logic
+// Add governance proposal expiration feature
