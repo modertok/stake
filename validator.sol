@@ -35,3 +35,4 @@
 // Fix race condition in staking pool
 // Fix overflow bug in token calculation
 // Fix governance proposal approval logic
+// Fix issue in token vesting logic
