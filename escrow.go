@@ -15,3 +15,4 @@
 // Add new feature: on-chain governance
 // Fix interoperability issues with other blockchains
 // Implement on-chain identity verification
+// Refactor incentive structure in DeFi protocol
