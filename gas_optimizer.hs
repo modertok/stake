@@ -42,3 +42,4 @@
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
 // Add new RPC endpoint
+// Refactor governance token logic
