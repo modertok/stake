@@ -46,3 +46,4 @@
 // Optimize hashing algorithm
 // Enhance privacy features using zk-STARKs
 // Optimize token minting flow
+// Fix overflow bug in token calculation
