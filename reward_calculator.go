@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Fix type mismatch in Haskell smart contract
 // Fix interoperability issues with other blockchains
+// Optimize oracle data fetching mechanism
