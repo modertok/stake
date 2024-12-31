@@ -2,3 +2,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix overflow bug in token calculation
 // Improve contract state management
+// Refactor validator reward system
