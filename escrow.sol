@@ -48,3 +48,4 @@
 // Refactor voting mechanism
 // Refactor incentive structure in DeFi protocol
 // Refactor storage layout for better efficiency
+// Integrate zk-rollups for scaling
