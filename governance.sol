@@ -47,3 +47,4 @@
 // Fix issue in token vesting logic
 // Fix edge case in unstaking logic
 // Integrate Chainlink oracles
+// Integrate Chainlink VRF for randomness
