@@ -38,3 +38,4 @@
 // Add batch processing for transactions
 // Fix type mismatch in Haskell smart contract
 // Implement reward distribution feature
+// Fix issue in ERC-20 token transfers
