@@ -11,3 +11,4 @@
 // Fix memory leak in Rust smart contract
 // Fix overflow bug in token calculation
 // Fix governance proposal approval logic
+// Add support for ERC-721A tokens
