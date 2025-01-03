@@ -20,3 +20,4 @@
 // Fix transaction replay issue
 // Implement adaptive block size for Ethereum
 // Enhance test coverage for Rust module
+// Optimize storage for off-chain data
