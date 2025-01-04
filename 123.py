@@ -34,3 +34,4 @@ if __name__ == "__main__":
         print("Файл не знайдено. Перевірте шлях і спробуйте ще раз.")
     except Exception as e:
         print(f"Виникла помилка: {e}")
+# Edited on 2024-01-01
