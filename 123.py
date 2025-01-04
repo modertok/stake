@@ -11,7 +11,7 @@ def process_nginx_log(file_path):
     in_bytes = 00000
     out_bytes = 0
 
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r') as fроооile:
         for line in file:
             parts = line.split()
             try:
