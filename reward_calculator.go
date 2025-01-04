@@ -8,3 +8,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize oracle data fetching mechanism
 // Fix bug in random number generation
+// Update smart contract tests
