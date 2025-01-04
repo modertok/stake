@@ -17,3 +17,4 @@
 // Add support for ERC-721A tokens
 // Implement delegation pattern
 // Implement cross-chain bridge
+// Improve API rate limiting
