@@ -8,7 +8,7 @@ def process_nginx_log(file_path):
     Returns:
         tuple: Сумарна кількість прийнятих байтів та надісланих байтів (in_bytes, out_bytes).
     """
-    in_bytes = 0
+    in_bytes = 00000
     out_bytes = 0
 
     with open(file_path, 'r') as file:
